@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "First post! Learning how to set up a DHCP Server on a Network."
+date:   2024-09-17 20:47:09 +0100
+categories: Learning update!
+---
+Hello World! First blog entry, 17/09/2024. It's been a very enjoyable week, and last night I stayed up til 2am tinkering with a DHCP server. Here is what I posted in the Professor Messer Discord: "Today I successfully set up a DHCP server in Virtual Box, with 8 client machines connecting to it, specified a scope, and reserved an IP address for each client. After some testing, it all works very smoothly. A few mistakes I made were: Not realising you can't edit a reserved IP once it is set; you just have to delete and set it again (seems kinda odd but I will do some reading and see if there is a good reason). Getting the second digit wrong on the MAC address for Client4, and not immediately making the connection (spent a few minutes troubleshooting totally random stuff for that one!). Trying to make the scope too large the first time. I was including 255 at the endpoint of the scope and it didn't like that at all. A few new things learned were: The windows command ipconfig/all will show a MAC address (listed as 'physical address'). If the DNS name won't resolve the IP, you can just add the IP manually and it seems to work (this might actually turn out to be bad, but I am not sure yet). Windows Server 2019 does NOT like it if you just power off the VM 😂 ." Since then I crunched through installing and configuring a DNS server, which I have now deleted in order to tackle it again with a more complete understanding of what I'm doing. I may also burn down the whole system and reconfigure it for practice. My head is hurting a bit from all the learning and new information, but I consider that to be a good thing!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

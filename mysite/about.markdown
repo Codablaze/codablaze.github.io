@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Codablaze! I have put this blog together to make sense of the skills I am developing in Networking and IT. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am studying CompTIA A+, after a career spent in the events industry as a lighting rigger, stage builder and lighting programmer. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I love technology, getting to grips with complex problems and meeting talented and knowledgeable people. The journey so far has been filled with all of this and more!
