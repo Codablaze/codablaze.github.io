@@ -23,7 +23,7 @@ The DNS Servers are both running in conjunction with the DHCP Server from my las
 Here is a link to the tutorial I used:
 https://www.youtube.com/watch?v=-TsqAHUWdQU&t=614s
 
-msftwebcast.com is my guru with this particular collection of setups.
+msftwebcast.com is my guru with this particular collection of setups. 
 
 
 
