@@ -15,7 +15,7 @@ but setting up a domain with a name (in my case, codablaze.com) makes it very si
 
 Update:
 I have set up a second DNS server on another machine, running a separate set of VMs. This process was a lot smoother, and I challenged
-myself to do it from memory. I did refer back to a tutorial when setting up the 'www' section, as that didn't make immediate sense to memory
+myself to do it from memory. I did refer back to a tutorial when setting up the 'www' section, as that didn't make immediate sense
 (it turned out I just had to right-click in an empty space).
 
 The DNS Servers are both running in conjunction with the DHCP Server from my last post (I replicated that on the second machine as well).
