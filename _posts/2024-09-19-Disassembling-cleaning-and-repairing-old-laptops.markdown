@@ -13,13 +13,13 @@ After that, I took apart the Toshiba, using a guide I found here:
 
 h<a href="https://www.youtube.com/watch?v=63G1q-dIE_4">
 
-Dismantling it presented me with some challenges, and also taught me a little bit about 'me' and how I do things! I found that I was getting very easily pulled away into side ideas, putting small bolts down in weird places, not exerting fine control, and didn't take time to pick my workspace that well - choosing to place the machine on the edge of a bed while Isat in an office chair. 
+Dismantling it presented me with some challenges, and also taught me a little bit about 'me' and how I do things! I found that I was getting very easily pulled away into side ideas, putting small bolts down in weird places, not exerting fine control, and didn't take time to pick my workspace that well - choosing to place the machine on the edge of a bed while I sat in an office chair. 
 
 My back was hurting quite a bit by the time I moved the laptop to the floor and sat cross-legged.
 
 I then stayed up til 2am troubleshooting WEIRD stuff. Once the laptop was cleaned and reassembled, I tried installing Linux Mint Xfce on it. Linux Mint is a very lightweight operating system that is useful for breathing life into older machines. More info can be found <a href="https://linuxmint.com/">here<a>.
 
-The laptop booted into the installation USB fine, and even ran the install. I decided to wipe Windows 7, and all my documents, rather than install alongside. Once the installation was complete and I tried to boot the laptopt, I got the following error:
+The laptop booted into the installation USB fine, and even ran the install. I decided to wipe Windows 7, and all my documents, rather than install alongside it. Once the installation was complete and I tried to boot the laptop, I got the following error:
 
 "Realtek PCIe FE Family Controller series v1.23 (07/28/10)
 PXE-E61: Media Test Failure, check cable
@@ -36,6 +36,7 @@ This laptop's issue was that it would boot into an error saying "Invalid partiti
 
 After tinkering with a few settings, I replaced all the covers on each laptop (I had four bolts left over - why?) and resolved to approach the problem with a fresh head the following day.
 
+Update:
 So, this morning I had a good reflect on last night. I decided to clear myself a proper workspace using my desk and chair, put by a window for some natural light and fresh air. I also set up a small picture frame on its back to store small bolts and brackets in. I have bought myself a parts tray and cheap amazon basics electronics screwdriver set. They arrive in a few days.
 
 After that, I disassembled the Toshiba again, cleaned it again, checked the cables I could access, and tried using the working hard drive in a different slot. I had a HDD/SSD caddy from a HP laptop that fit into the Toshiba, so I seated the SSD in that. It still didn't boot, so I decided to retire that laptop, remove the hard drives and approach the problem another day, once I had more experience.
@@ -43,6 +44,8 @@ After that, I disassembled the Toshiba again, cleaned it again, checked the cabl
 So now I have experience of handling a small screwdriver, stripping down two laptops, cleaning one inside, and bringing one back to life (It's super quick, I'm using it to write this blog right now!). 
 
 Regarding the Toshiba, this is a perfect opportunity to look into single-boot operating systems like Tails OS and see how they work, because until I understand how to fix a SATA cable a bit better, or work out what the problem is (I did spend an hour looking stuff like BIOS resets etc, but nothing seemed to work), that machine isn't going to be very useful!
+
+I gained a renewed appreciation for how the gap is bridged between hardware and software, and the importance of not randomly putting down tiny bolts in places without thinking!
 
 Now for some lunch, and to plan my next area of study!
 
