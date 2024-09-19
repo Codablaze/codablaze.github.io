@@ -44,7 +44,7 @@ So now I have experience of handling a small screwdriver, stripping down two lap
 
 Regarding the Toshiba, this is a perfect opportunity to look into single-boot operating systems like Tails OS and see how they work, because until I understand how to fix a SATA cable a bit better, or work out what the problem is (I did spend an hour looking stuff like BIOS resets etc, but nothing seemed to work), that machine isn't going to be very useful!
 
-Now for some lunch, and to plan my next area of study! 
+Now for some lunch, and to plan my next area of study!
 
 
 
