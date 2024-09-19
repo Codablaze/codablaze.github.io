@@ -9,9 +9,7 @@ So, after semi-cracking DNS and DHCP servers, then crunching my way through addi
 
 I own a few old laptops from across the years, and one in particular - a Toshiba Satellite from 2010 that has travelled the world with me - was extremely chuggy and running out of steam. I grabbed a large USB stick, back up all the folders, files and photos I could find, and archived them on two other, newer machines.
 
-After that, I took apart the Toshiba, using a guide I found here: 
-
-h<a href="https://www.youtube.com/watch?v=63G1q-dIE_4">
+After that, I took apart the Toshiba, using a guide I found <a href="https://www.youtube.com/watch?v=63G1q-dIE_4">here.<a>
 
 Dismantling it presented me with some challenges, and also taught me a little bit about 'me' and how I do things! I found that I was getting very easily pulled away into side ideas, putting small bolts down in weird places, not exerting fine control, and didn't take time to pick my workspace that well - choosing to place the machine on the edge of a bed while I sat in an office chair. 
 
