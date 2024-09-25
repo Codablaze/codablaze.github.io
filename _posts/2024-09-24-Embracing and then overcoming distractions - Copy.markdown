@@ -37,4 +37,4 @@ Will this work? I can't know until I take my first exam, however, I feel more fo
 a clear idea of how to approach the course with a specific vie to passing the exam. All the fun supplementary stuff can be done in my own time, 
 rather than shakily tying my tech-tinkering to a broader sense of frenetic learning.
 
-My head hurts now though! Ha!
+My head hurts now though! Ha! 

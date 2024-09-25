@@ -49,7 +49,7 @@ What is WWAN?
 
 What are three common types of authentication?
 
-What is a less common type of authentication?
+What is a less common type of authentication? 
 
 What is NFC?
 
