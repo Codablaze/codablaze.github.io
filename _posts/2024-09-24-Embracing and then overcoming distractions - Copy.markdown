@@ -21,7 +21,7 @@ basically all over the place.
 
 I lost an entire day to PC building simulator, and a whole morning learning Python. When I eventually went back to the beginning of the 
 Professor Messer video series, I found that I had retained very little. It was disheartening, and I began to feel a little lost - as though
-I'd allow myself to free-wheel with the academic freedom.
+I'd allowed myself to free-wheel with the academic freedom.
 
 With that in mind, I resolved to refocus my attention.
 
