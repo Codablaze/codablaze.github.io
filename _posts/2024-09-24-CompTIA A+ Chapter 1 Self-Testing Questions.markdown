@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CompTIA A+ 220 1101 Self-Testing Questions."
+title:  "CompTIA A+ 220 1101 Chapter 1 Self-Testing Questions."
 date:   2024-09-24 15:10:00:00 +0100
 categories: Learning update!
 ---
