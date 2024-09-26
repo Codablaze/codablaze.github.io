@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CompTIA A+ 220 1101 Chapter 2 Self-Testing Questions."
-date:   2024-09-26 14:00:00:00 +0100
+date:   2024-09-26 13:00:00:00 +0100
 categories: Learning update!
 ---
 
