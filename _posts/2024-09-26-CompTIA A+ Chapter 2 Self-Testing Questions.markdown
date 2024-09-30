@@ -201,7 +201,8 @@ What uses TCP port 110?
 
 What uses TCP port 80?
 
-What uses UDP port 25?
+What uses TCP port 25?
+
 What uses UDP ports 67 and 68?
 
 What uses UDP port 53?
@@ -215,7 +216,7 @@ What uses UDP port 138?
 What two things use port TCP 445?
 
 
-
+---
 Chapter 2.2 - Compare and contrast common networking hardware
 
 What is the job of a router?
@@ -341,7 +342,7 @@ If referring to these by their other names (helpful, I know), what would they be
 Name some functions that can happen on each of these layers:
 
 
-
+---
 Chapter 2.3 - Compare and contrast protocols for wireless networking
 
 What is 802.11?
@@ -356,7 +357,7 @@ What speed was 802.11a?
 
 What is the drawback of a 5Ghz range?
 
-What month and year was 802.11b created?
+What year was 802.11b created?
 
 What Ghz range was 802.11b?
 
@@ -366,7 +367,7 @@ What is the advantage of 2.4Ghz?
 
 What is a drawback of 2.4Ghz range?
 
-What month and year was 802.11g created?
+What year was 802.11g created?
 
 Why was 802.11g created?
 
@@ -378,7 +379,7 @@ Why was upgrading from 802.11b to 802.11g very easy?
 
 What do we commonly refer to 802.11n as?
 
-What month and year was 802.11n created?
+What year was 802.11n created?
 
 What two Ghz bands can 802.11n operate on?
 
@@ -390,7 +391,7 @@ What was the maximum theoretical speed of 802.11n, per antenna?
 
 What is 802.11ac commonly known as?
 
-What month and year was 802.11ac created?
+What year was 802.11ac created?
 
 What Ghz range does 802.11ac operate in?
 
@@ -440,4 +441,316 @@ What is RFID?
 
 Why is NFC more secure than RFID?
 
+What are the three channels associated with 2.4Ghz in the 802.11 standard?
+
+What is the technical name of the part of 2.4Ghz band that bluetooth uses?
+
+What is the distance of a Personal Area Network?
+
+What is the distance of industrial bluetooth?
+
+
+
+---
+Chapter 2.4 - Summarise services provided by networked hosts
+
+What does a DNS server do?
+
+What does ‘distributed naming system’ mean?
+
+What does DHCP stand for?
+
+What does a DHCP server do?
+
+What is a file server?
+
+What is SMB?
+
+What is AFP?
+
+What is a print server?
+What is IPP?
+
+What is LPD?
+
+What is a mail server?
+
+What is Syslog?
+
+What critical resource do you need for the Syslog?
+
+What does SIEM stand for? Security infomratiopm and event manager!!!!!
+
+What is a Web server?
+
+What is an Authentication server?
+
+What are the main difficulties managing a Spam server/file structure?
+
+What is a mail gateway?
+
+What is a screened subnet?
+
+What does UTM stand for?
+
+What is a web security gateway?
+
+Name three functions of an all in one security appliance.
+
+What is a load balancer?
+
+Where are load balancers often found?
+
+How can a load balancer make network traffic more efficient?
+
+What is SSL?
+
+What does QoS stand for?
+
+What is a proxy server?
+
+What does SCADA stand for?
+
+What does ICS stand for?
+
+Why might you find older, legacy systems in a data centre?
+
+What is an embedded system?
+
+What does IoT stand for?
+
+What is a segmented network?
+
+
+---
+2.5 Install and configure basic wired/wireless small office/home office (SOHO) networks.
+
+What are IPv4 and IPv6, and how are they different?
+
+How many bits is an IPv4 address? And how many bytes?
+
+How many bits is an IPv6 address? And how many bytes?
+
+Where would you find the subnet assignment in an IPv6 address?
+
+What does a subnet mask do?
+
+What is a default gateway?
+
+What three things do you need to assign in a DNS server to make sure a domain name is linked to an IP address?
+
+Why might you have two DNS servers?
+
+What is an NTP server?
+
+What is BOOTP?
+
+When was BOOTP created?
+
+A drawback of BOOTP?
+
+When was DHCP created?
+
+What does DHCP stand for?
+
+What is DORA in relation to DHCP?
+
+What is a DHCP relay?
+
+What is ‘IP helper’?
+
+What port does DHCP receive the ‘discover’ broadcast through?
+
+What port is the ‘offer’ phase sent back from the server to the client through?
+
+What port is used by the client machine to send back the ‘request’?
+
+What port is used for the ‘acknowledge’ stage?
+
+How do you assign a pool of IP addresses within a DHCP server?
+
+Why might you reserve an IP to an individual MAC address through the DHCP server?
+
+What is APIPA?
+
+What is a ‘link-local’ address?
+
+What is IETF?
+
+What is the IP range assigned by IETF? 169.254.0.0 - 169.254.254.255
+
+What is an ARP request?
+
+What is the default subnet mask for APIPA?
+
+What is another way to tell that an APIPA or link-local address has been assigned?
+
+In what ways are APIPA or link local addresses limited?
+
+---
+2.6 Common network configuration concepts
+
+DNS config
+
+How is DNS hierarchical?
+
+How many ‘root cluster’ servers are there in the world?
+
+What is a top-level domain?
+
+How can you check DNS server details from a client machine?
+
+What is an RR in relation to DNS?
+
+Approximately how many different DNS record types are there?
+What do IN, A and AAAA mean in a DNS server configuration?
+
+What is ‘Time to live’ in relation to DNS?
+
+What is an MX record?
+
+What two pieces of info would you need to configure an MX server?
+
+What can be the uses of text records in a DNS server?
+
+What does SPF stand for?
+
+What does SPF do?
+
+What is a DKIM? Domain Keys Identified Mail
+
+What does DMARC stand for, and what does it do?
+
+Where might you write your DMARC policy?
+
+
+DHCP config
+
+What is a ‘scope’?
+
+What is a lease?
+
+What other options will you need to include when configuring a DHCP server?
+
+How do you reserve IP addresses in a DHCP server?
+
+How do you exclude IP addresses in a DHCP server?
+
+Where would you find your DHCP server at home or in a small office?
+
+What is a ‘dynamic assignment’?
+
+What is ‘automatic assignment’?
+
+What is ‘address reservation’?
+
+What are some other names for a DHCP reservation
+What is a DHCP lease?
+
+What is a T1 timer?
+
+What is a T2 timer?
+
+
+VLAN and VPN configuration
+
+What is a broadcast domain?
+
+What is a VLAN and why was it created?
+
+What is the relationship between a broadcast domain and a group of VLANS?
+
+What is a VPN?
+
+What is a concentrator?
+
+How can you keep your laptop secure in a cafe?
+
+
+
+---
+Internet connection types, network types, and their features
+
+Describe satellite networking.
+
+What are the average speeds of satellite networking?
+
+What is the latency of satellite networking?
+
+What is the latency time of starlink?
+
+What is the Ghz range of satellite networking.
+
+Describe fibre.
+
+What is wavelength division multiplexing?
+
+Describe cable broadband.
+
+What is DOCSIS?
+
+What are the speeds of DOCSIS?
+
+What is ADSL?
+
+Why is it called asymmetric?
+
+What are the max speeds of DSL?
+
+Describe a cellular network.
+
+What happens when you use your cellphone as a hotspot?
+
+What is a WISP?
+
+What is meshed 802.11?
+
+What are the speeds of WISP?
+
+What is a LAN?
+
+How are LANs structured?
+
+What is a WAN?
+
+What is the drawback of a WAN?
+
+What is MPLS? Multi protocol label switching
+
+What is a PAN?
+
+What is a MAN?
+
+Who uses MANs?
+
+What is a SAN?
+
+What is a WLAN?
+
+
+
+
+---
+2.8 Networking tools
+
+What are cable crimpers used for?
+
+How does a cable crimper work?
+
+How does a WiFi analyser work?
+What is a toner probe?
+
+What is a punch down tool?
+
+What is a cable tester?
+
+What is a loopback plug?
+
+What is a crossover cable?
+
+What is a network tap?
+
+What is a port mirror?
+
+What does SPAN stand for?
 
