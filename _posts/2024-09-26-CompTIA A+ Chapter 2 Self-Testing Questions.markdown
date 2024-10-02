@@ -5,11 +5,9 @@ date:   2024-09-26 13:00:00:00 +0100
 categories: Learning update!
 ---
 
-CompTIA self-testing questions:
+<U>Chapter 2 - Networking<u>
 
-Chapter 2 - Networking
-
-Chapter 2.1 - Compare and contrast Transmission Control Protocol and User Datagram Protocol ports, protocols and their purposes
+<U>Chapter 2.1 - Compare and contrast Transmission Control Protocol and User Datagram Protocol ports, protocols and their purposes<u>
 
 What is IP?
 
@@ -28,6 +26,7 @@ What is an ethernet trailer?
 What is a client?
 
 What is a server?
+
 What is meant by payload?
 
 Where does the IP payload sit in the structure?
@@ -71,6 +70,7 @@ What are the ephemeral ports?
 Why does randomising port numbers not help toward security?
 
 What three pieces of information does an IPv4 socket need to get data to its destination?
+
 What is another name for ephemeral ports?
 
 What type of port do servers tend to use?
@@ -215,9 +215,9 @@ What uses UDP port 138?
 
 What two things use port TCP 445?
 
+<br>
 
----
-Chapter 2.2 - Compare and contrast common networking hardware
+<u>Chapter 2.2 - Compare and contrast common networking hardware<u>
 
 What is the job of a router?
 
@@ -331,19 +331,21 @@ What is a demarcation point?
 
 What is a NIC?
 
+<br>
 
-Software defined networking
+<u>Software defined networking<u>
 
 What is SDN?
+
 What are the three layers of SDN? 
 
 If referring to these by their other names (helpful, I know), what would they be referred to as? 
 
 Name some functions that can happen on each of these layers:
 
+<br>
 
----
-Chapter 2.3 - Compare and contrast protocols for wireless networking
+<u>Chapter 2.3 - Compare and contrast protocols for wireless networking<u>
 
 What is 802.11?
 
@@ -449,10 +451,9 @@ What is the distance of a Personal Area Network?
 
 What is the distance of industrial bluetooth?
 
+<br>
 
-
----
-Chapter 2.4 - Summarise services provided by networked hosts
+<u>Chapter 2.4 - Summarise services provided by networked hosts<u>
 
 What does a DNS server do?
 
@@ -521,9 +522,9 @@ What does IoT stand for?
 
 What is a segmented network?
 
+<br>
 
----
-2.5 Install and configure basic wired/wireless small office/home office (SOHO) networks.
+<u>2.5 Install and configure basic wired/wireless small office/home office (SOHO) networks.<u>
 
 What are IPv4 and IPv6, and how are they different?
 
@@ -587,10 +588,11 @@ What is another way to tell that an APIPA or link-local address has been assigne
 
 In what ways are APIPA or link local addresses limited?
 
----
-2.6 Common network configuration concepts
+<br>
 
-DNS config
+<u>2.6 Common network configuration concepts<u>
+
+<u>DNS config<u>
 
 How is DNS hierarchical?
 
@@ -623,8 +625,9 @@ What does DMARC stand for, and what does it do?
 
 Where might you write your DMARC policy?
 
+<br>
 
-DHCP config
+<u>DHCP config<u>
 
 What is a ‘scope’?
 
@@ -651,8 +654,9 @@ What is a T1 timer?
 
 What is a T2 timer?
 
+<br>
 
-VLAN and VPN configuration
+<u>VLAN and VPN config<u>
 
 What is a broadcast domain?
 
@@ -666,10 +670,9 @@ What is a concentrator?
 
 How can you keep your laptop secure in a cafe?
 
+<br>
 
-
----
-Internet connection types, network types, and their features
+<u>2.7 - Internet connection types, network types, and their features<u>
 
 Describe satellite networking.
 
@@ -727,17 +730,16 @@ What is a SAN?
 
 What is a WLAN?
 
+<br>
 
-
-
----
-2.8 Networking tools
+<u>2.8 Networking tools<u>
 
 What are cable crimpers used for?
 
 How does a cable crimper work?
 
 How does a WiFi analyser work?
+
 What is a toner probe?
 
 What is a punch down tool?

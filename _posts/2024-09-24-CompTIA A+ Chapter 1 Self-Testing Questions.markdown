@@ -5,11 +5,11 @@ date:   2024-09-24 15:10:00:00 +0100
 categories: Learning update!
 ---
 
-CompTIA self-testing questions:
+<u>Chapter 1 - Mobile Devices<u>
 
-Chapter 1 - Mobile Devices
+<br>
 
-Chapter 1.1 - Install and configure laptop hardware and components:
+<u>Chapter 1.1 - Install and configure laptop hardware and components:<u>
 
 What are the two main types of laptop battery?
 
@@ -53,8 +53,9 @@ What is a less common type of authentication?
 
 What is NFC?
 
+<br>
 
-Chapter 1.2 - Compare and contrast the display components of mobile devices:
+<u>Chapter 1.2 - Compare and contrast the display components of mobile devices:<u>
 
 What does LCD stand for?
 
@@ -100,8 +101,9 @@ What is one practical way to diagnose a backlight failure?
 
 What is the name of the screen technology underpinning styluses, touchscreen and capacitive touchpens?
 
+<br>
 
-Chapter 1.3 - Set up and configure accessories and ports of mobile devices
+<u>Chapter 1.3 - Set up and configure accessories and ports of mobile devices.<u>
 
 List as many types of USB as you can. 
 
@@ -131,8 +133,9 @@ What does TRRS stand for in audio devices?
 
 Describe the difference between a docking station and a port replicator.
 
+<br>
 
-Chapter 1.4 - Configure basic mobile device connectivity and application support.
+<u>Chapter 1.4 - Configure basic mobile device connectivity and application support.<u>
 
 Why do cellular networks have their name?
 

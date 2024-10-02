@@ -5,11 +5,9 @@ date:   2024-10-02 11:00:00:00 +0100
 categories: Learning update!
 ---
 
-A+ Chapter 3 Self Testing Questions
+<u>3.1 - Basic cable types and their purposes:<u>
 
-3.1 - Basic cable types and their purposes:
-
-Copper ethernet:
+<u>Copper ethernet:<u>
 
 Explain twisted pair copper cabling.
 
@@ -70,8 +68,9 @@ What is meant by ‘direct burial’ STP?
 
 What is the ‘drain wire’ in a direct burial STP cable?
 
+<br>
 
-Fibre ethernet:
+<u>Fibre ethernet:<u>
 
 Why is fibre ethernet more secure than copper?
 
@@ -92,10 +91,12 @@ What distance is considered ‘short range’ with fibre?
 What is single mode fibre?
 
 What distance can single mode fibre cover?
+
 What is considered ‘long distance’ in fibre terms?
 
+<br>
 
-568A and 568B colours:
+<u>568A and 568B colours:<u>
 
 What is the international cabling standard for 568A and 568A? 
 
@@ -136,14 +137,16 @@ Blue white
 Green
 White brown
 Brown
+
 What is a helpful shortcut to remembering the differences between the two colour orders?
 
 How can you quickly verify which standard is being used?
 
 What is a punch down block?
 
+<br>
 
-Peripheral cables:
+<u>Peripheral cables:<u>
 
 What does USB stand for?
 
@@ -207,8 +210,9 @@ When did that standard get introduced?
 
 Name 2 connectors that used this standard:
 
+<br>
 
-Video cables:
+<u>Video cables:<u>
 
 What is a DB-15 connector usually referred to as?
 
@@ -257,8 +261,9 @@ Which DVI types can support both single and dual link?
 
 Why do most DVI ports allow conversion to HDMI?
 
+<br>
 
-SATA device cables:
+<u>SATA device cables:<u>
 
 What did PATA stand for?
 
@@ -286,8 +291,9 @@ Describe some defining features of the SATA connections on a motherboard?
 
 In what way is an eSATA connector different from an internal SATA connector?
 
+<br>
 
-SCSI cables
+<u>SCSI cables:<u>
 
 What does SCSI stand for?
 
@@ -340,8 +346,9 @@ Why does DVI-A convert to VGA alright?
 
 List some connections you might find on a modern USB hub.
 
+<br>
 
-Copper connectors
+<u>Copper connectors:<u>
 
 What is an RJ11 connector?
 
@@ -356,6 +363,7 @@ What does 8P8C mean?
 What is an F-Connector?
 
 What is a punchdown block?
+
 In what way is a USB 3.0 micro-b plug really weird?
 
 What is a Molex connector?
@@ -367,7 +375,7 @@ What is the longer, technical name for a DB-9 connector? D-subminiature
 Where could you still find a DB-9 connector in a more modern setting?
 
 
-Fibre connectors
+<u>Fibre connectors:<u>
 
 What is an LC connector?
 
@@ -377,10 +385,9 @@ What is an ST connector?
 
 What is an SC connector?
 
+<br>
 
-3.2 - Install appropriate RAM
-
-Memory
+<u>3.2 - Install appropriate RAM<u>
 
 What does RAM stand for?
 
@@ -412,9 +419,6 @@ What was the chip capacity of DDR4 SDRAM?
 
 What was the chip capacity of DDR5 SDRAM?
 
-
-Memory technologies
-
 What is VRAM?
 
 What is a swap file?
@@ -429,8 +433,9 @@ What is parity memory?
 
 How does ‘even parity’ work?
 
+<br>
 
-3.3 - Select and install storage devices
+<u>3.3 - Select and install storage devices<u>
 
 Storage devices
 
@@ -474,8 +479,9 @@ Name some different types of flash drive:
 
 What is a good use for optical drives in modern times?
 
+<br>
 
-RAID storage
+<u>RAID storage<u>
 
 What does RAID stand for?
 
@@ -520,8 +526,9 @@ What is the main drawback of RAID 10?
 
 What is the minimum amount of drives used to run a RAID 10 system?
 
+<br>
 
-3.4 - Install and configure motherboards, CPUs and add-on cards
+<u>3.4 - Install and configure motherboards, CPUs and add-on cards<u>
 
 What are the main 2 motherboard types? ATX and ITX
 
@@ -631,8 +638,9 @@ What is a HSM? Hardware Security Module
 
 What is a cryptographic accelerator? Takes cryptographic load away from CPU
 
+<br>
 
-CPU features
+<u>CPU features<u>
 
 What two architectures could a CPU be using? 32bit or 64bit
 
