@@ -21,11 +21,11 @@ categories: Learning update!
 ❓How are the cables often named?<br>
 ✅ **Transmit+, Transmit-, Receive+ and Receive-**
  
-❓What is the data throughput of Category 5 ethernet?
-✅
+❓What is the data throughput of Category 5 ethernet?<br>
+✅ **100Mbit/s**
  
-❓What is the range of Category 5 ethernet?
-✅
+❓What is the range of Category 5 ethernet? <br>
+✅ **100m**
  
 ❓What is the data throughput of Category 5e ethernet? What does the ‘e’ stand for?
 ✅
@@ -36,9 +36,9 @@ categories: Learning update!
 ❓What is the data throughput of Category 6 ethernet?
 ✅ 
 
-❓What is the range of Category 6 ethernet:
-✅ **Unshielded:**
-✅ **Shielded:**
+❓What is the range of Category 6 ethernet:<br>
+✅ **Unshielded: 55m**
+✅ **Shielded:100m**
 
 ❓What is the data throughput of Category 6a ethernet? What does the ‘a’ stand for?
 ✅ 
@@ -764,215 +764,507 @@ categories: Learning update!
 
 <u>3.4 - Install and configure motherboards, CPUs and add-on cards<u>
 
-❓What are the main 2 motherboard types?
+❓What are the main 2 motherboard types? <br>
 ✅ **ATX and ITX
 
-❓Where would you use a Standard-ATX motherboard? 
-✅ **In a big computer
+❓Where would you use a Standard-ATX motherboard?  <br>
+✅ **In a big computer**
 
-❓Where would you use a Mini-ITX motherboard? 
-✅ **In a small streaming computer
+❓Where would you use a Mini-ITX motherboard?  <br>
+✅ **In a small streaming computer**
 
-❓What does ATX stand for? 
-✅ **Advanced Technology Extended
+❓What does ATX stand for?  <br>
+✅ **Advanced Technology Extended**
 
-❓When was ATX standardised? 
+❓When was ATX standardised?  <br>
 ✅ **1995
 
-❓What power connectors might an ATX motherboard have available? 
-✅ **24 pin and an additional 4 pin for the CPU
+❓What power connectors might an ATX motherboard have available?  <br>
+✅ **24 pin and an additional 4 pin for the CPU**
 
-❓What does ITX stand for? 
-✅ **Information technology extended
+❓What does ITX stand for?  <br>
+✅ **Information technology extended**
 
-❓When was ITX created? 
-✅ **2001
+❓When was ITX created?  <br>
+✅ **2001**
 
-❓When might you use an ITX motherboard? 
-✅ **For a small form-factor PC that doesn't need a lot of graphical capability
+❓When might you use an ITX motherboard?  <br>
+✅ **For a small form-factor PC that doesn't need a lot of graphical capability**
 
-❓What does PCIe stand for? 
-✅ **Peripheral component interconnect express
+❓What does PCIe stand for?  <br>
+✅ **Peripheral component interconnect express**
 
-❓What is a bus? 
-✅ **Traces on the motherboard that allow different parts to communicate
+❓What is a bus?  <br>
+✅ **Traces on the motherboard that allow different parts to communicate**
 
-❓When was PCI created? 
-✅ **1994
+❓When was PCI created?  <br>
+✅ **1994**
 
-❓What two sizes did PCI have? 
-✅ **32bit and 64bit 
+❓What two sizes did PCI have?  <br>
+✅ **32bit and 64bit **
 
-❓In what way are these two sizes physically different? 
-✅ **64bit is double the size of of 32bit
+❓In what way are these two sizes physically different?  <br>
+✅ **64bit is double the size of of 32bit**
 
-❓What two voltages did PCI support? 
-✅ **3.3v and 5v
+❓What two voltages did PCI support?  <br>
+✅ **3.3v and 5v**
 
-❓When was PCIe created? 
-✅ **2003
+❓When was PCIe created?  <br>
+✅ **2003**
 
-❓What was the major change to PCI with PCIe? 
-✅ **Serial communication
+❓What was the major change to PCI with PCIe?  <br>
+✅ **Serial communication**
 
-❓How many full duplex lanes is it possible for PCIe to have? 
-✅ **32
+❓How many full duplex lanes is it possible for PCIe to have?  <br>
+✅ **32**
 
-❓How does the lock hook work in a PCIe card? 
-✅ **Push it in, slot it down
+❓How does the lock hook work in a PCIe card?  <br>
+✅ **Push it in, slot it down**
 
-❓What voltages does the main motherboard power socket allow? 
-✅ **3.3v, +5v, -5v (sometimes), +12v and -12v
+❓What voltages does the main motherboard power socket allow?  <br>
+✅ **3.3v, +5v, -5v (sometimes), +12v and -12v**
 
-❓How many pins does a motherboard main power connector have? 
-✅ **24, but older systems may have had 20
+❓How many pins does a motherboard main power connector have?  <br>
+✅ **24, but older systems may have had 20**
 
-❓What prevents motherboard power being plugged in the wrong way? 
-✅ **Shaped holes
+❓What prevents motherboard power being plugged in the wrong way?  <br>
+✅ **Shaped holes**
 
-❓What should you ensure before connecting motherboard main power? 
-✅ **Everything is unplugged
+❓What should you ensure before connecting motherboard main power? <br> 
+✅ **Everything is unplugged**
 
-❓What is a 4-pin ATX connector for? 
-✅ **Extra power to the CPU
+❓What is a 4-pin ATX connector for?  <br>
+✅ **Extra power to the CPU**
 
-❓What might the 4-pin ATX connector have labelled on it?  
-✅ **P4, 12VATX, CPU
+❓What might the 4-pin ATX connector have labelled on it?   <br>
+✅ **P4, 12VATX, CPU**
 
-❓What are some defining characteristics of SATA connections on a motherboard? 
-✅ **Colours, grouped together, L-shape on interior of socket
+❓What are some defining characteristics of SATA connections on a motherboard?  <br>
+✅ **Colours, grouped together, L-shape on interior of socket**
 
-❓What is an eSATA expansion? 
-✅ **Allows you to connect external SATA. No L shape in the socket.
+❓What is an eSATA expansion? <br> 
+✅ **Allows you to connect external SATA. No L shape in the socket.**
 
-❓What is a header or pin header? 
-✅ **Allows power and control to things like TPM, USB, Fans etc
+❓What is a header or pin header?  <br>
+✅ **Allows power and control to things like TPM, USB, Fans etc**
 
-❓What is a TPM? 
-✅ **Trusted Platform Module
+❓What is a TPM?  <br>
+✅ **Trusted Platform Module**
 
-❓What is an m.2 connector for? 
-✅ **Connecting an m.2 drive
+❓What is an m.2 connector for?  <br>
+✅ **Connecting an m.2 drive**
 
-❓Who are the two main CPU manufacturers? 
-✅ **Intel and AMD
+❓Who are the two main CPU manufacturers?  <br>
+✅ **Intel and AMD**
 
-❓In what ways does a server motherboard differ from a PC motherboard? 
-✅ **More CPU sockets, larger, more power delivery.
+❓In what ways does a server motherboard differ from a PC motherboard?  <br>
+✅ **More CPU sockets, larger, more power delivery.**
 
-❓How many memory slots is a PC motherboard likely to have? 
-✅ **4
+❓How many memory slots is a PC motherboard likely to have?  <br>
+✅ **4**
 
-❓How are laptop CPUs modified to stop themselves from getting damaged? 
-✅ **Thermal throttling
+❓How are laptop CPUs modified to stop themselves from getting damaged?  <br>
+✅ **Thermal throttling**
 
-❓What are the main goals of laptop motherboards? 
-✅ **Low power consumption, small size
+❓What are the main goals of laptop motherboards?  <br>
+✅ **Low power consumption, small size**
 
-❓What does BIOS stand for? 
-✅ **Basic Input Output System
+❓What does BIOS stand for?  <br>
+✅ **Basic Input Output System**
 
-❓What does POST stand for? 
-✅ **Power on self test
+❓What does POST stand for?  <br>
+✅ **Power on self test**
 
-❓What does the BIOS look for after a successful POST? 
-✅ **A bootloader on a drive or USB stick
+❓What does the BIOS look for after a successful POST?  <br>
+✅ **A bootloader on a drive or USB stick**
 
-❓What were the main drawbacks of legacy BIOS? 
-✅ **Couldn’t update it
+❓What were the main drawbacks of legacy BIOS? <br>
+✅ **Couldn’t update it**
 
-❓What is UEFI BIOS? 
-✅ **Unified Extensible Firmware Interface (Which can be updated)
+❓What is UEFI BIOS?  <br>
+✅ **Unified Extensible Firmware Interface (Which can be updated)**
 
 <br>
 
 <u>BIOS settings<u>
 
-❓What is the ‘secret button’ to access the BIOS? 
-✅ **F2 or F8 etc, sometimes esc
+❓What is the ‘secret button’ to access the BIOS?  <br>
+✅ **F2 or F8 etc, sometimes esc**
 
-❓What is Fast Startup? 
-✅ **Windows doesn’t fully shutdown, means you can’t access BIOS easily
+❓What is Fast Startup?  <br>
+✅ **Windows doesn’t fully shutdown, means you can’t access BIOS easily**
 
-❓How can you disable Fast Startup? 
-✅ **Interrupt boot process 3 times, in settings or Win+R msconfig
+❓How can you disable Fast Startup?  <br>
+✅ **Interrupt boot process 3 times, in settings or Win+R msconfig**
 
-❓What should you do before changing BIOS settings? 
-✅ **Make notes or take photos of current config
+❓What should you do before changing BIOS settings?  <br>
+✅ **Make notes or take photos of current config**
 
-❓What is the main reason you may want to manage USB permissions? 
-✅ **Security
+❓What is the main reason you may want to manage USB permissions?  <br>
+✅ **Security**
 
-❓What can a fan controller do? 
-✅ **Power and control the speed and behaviour of case fans
+❓What can a fan controller do?  <br>
+✅ **Power and control the speed and behaviour of case fans**
 
-❓What is ‘secure boot’? 
-✅ **Allows supervisor or use passwords to prevent unauthorised loading of OS
+❓What is ‘secure boot’?  <br>
+✅ **Allows supervisor or use passwords to prevent unauthorised loading of OS**
 
-❓In legacy systems, what was CMOS? 
-✅ **Complimentary Metal Oxide Semiconductor
+❓In legacy systems, what was CMOS?  <br>
+✅ **Complimentary Metal Oxide Semiconductor**
 
-❓What does CLRTC stand for, next to some motherboard jumper pins? 
-✅ **Clear Time Clock
+❓What does CLRTC stand for, next to some motherboard jumper pins?  <br>
+✅ **Clear Time Clock**
 
-❓What are the main benefits of a TPM (Trusted Platform Module)? 
-✅ **Prevents access to system unless a key can be authenticated
+❓What are the main benefits of a TPM (Trusted Platform Module)?  <br>
+✅ **Prevents access to system unless a key can be authenticated**
 
-❓What is a dictionary attack? 
-✅ **Brute force attack using common passwords
+❓What is a dictionary attack?  <br>
+✅ **Brute force attack using common passwords**
 
-❓What is a HSM? 
-✅ **Hardware Security Module
+❓What is a HSM?  <br>
+✅ **Hardware Security Module**
 
-❓What is a cryptographic accelerator? 
-✅ **Specialised chipset that takes cryptographic load away from CPU
+❓What is a cryptographic accelerator?  <br>
+✅ **Specialised chipset that takes cryptographic load away from CPU**
 
 <br>
 
 <u>CPU features<u>
 
-❓What two architectures could a CPU be using? 
-✅ **32bit or 64bit
+❓What two architectures could a CPU be using?  <br>
+✅ **32bit or 64bit**
 
-❓What is the maximum amount of values a 32 bit system can access? 
-✅ **4 GB
+❓What is the maximum amount of values a 32 bit system can access?  <br>
+✅ **4 GB**
 
-❓What is the maximum amount of values a 64 bit system can access? 
-✅ **17 billion GB
+❓What is the maximum amount of values a 64 bit system can access?  <br>
+✅ **17 billion GB**
  
-❓What is x86? 
-✅ **32bit architecture
+❓What is x86?  <br>
+✅ **32bit architecture**
 
-❓What is x64? 
-✅ **64bit architecture
+❓What is x64?  <br>
+✅ **64bit architecture**
 
-❓What does ARM stand for? 
-✅ **Advanced RISC machine
+❓What does ARM stand for? <br> 
+✅ **Advanced RISC machine**
 
-❓What does RISC stand for? 
-✅ **Reduced instruction set computing
+❓What does RISC stand for?  <br>
+✅ **Reduced instruction set computing**
 
-❓Describe a CPU core? 
-✅ **A section of a CPU die
+❓Describe a CPU core?  <br>
+✅ **A section of a CPU die**
 
-❓What are L1 and L2 caches? 
-✅ **Parts of the system of a single core of a CPU that aid the CPU to run more efficiently
+❓What are L1 and L2 caches?  <br>
+✅ **Parts of the system of a single core of a CPU that aid the CPU to run more efficiently**
 
-❓What is HTT? 
-✅ **Hyperthreading Technology
+❓What is HTT?  <br>
+✅ **Hyperthreading Technology**
 
-❓What is Multithreading? 
-✅ **Using the same CPU at different voltage levels for different functions
+❓What is Multithreading?  <br>
+✅ **Using the same CPU at different voltage levels for different functions**
 
-❓What is the approximate performance improvement through hyperthreading? 
-✅ **15%-30%
+❓What is the approximate performance improvement through hyperthreading? <br> 
+✅ **15%-30%**
 
-❓What is Virtualisation support? 
-✅ **A system that allows virtual machines to directly access the CPU
+❓What is Virtualisation support?  <br>
+✅ **A system that allows virtual machines to directly access the CPU**
 
-❓What is Intel VT? 
-✅ **Intel virtualisation Technology
+❓What is Intel VT?  <br>
+✅ **Intel virtualisation Technology**
 
-❓What is AMD-V? 
-✅ **AMD virtualisation
+❓What is AMD-V? <br>
+✅ **AMD virtualisation**
+
+<br>
+
+<u>Expansion cards:<u>
+
+❓What are the little notches in expansion cards referred to as?<br>
+✅ **Keys**
+
+❓What is a sound card used for?
+
+❓When might you need a video card?
+
+❓What is meant by ‘discrete’ graphics?
+
+❓What are integrated graphics?
+
+❓Give some examples of outputs that could be found on a graphics card/video card?
+
+❓Explain what a capture card is.
+
+❓What connection on the motherboard would a capture card usually use?
+
+❓What does SDI stand for?
+
+❓What is a NIC?
+
+❓Why might you need a NIC?
+
+❓What are a few recommended steps to go through before buying and attempting to install an expansion card?
+
+❓What is a ‘device driver’?
+
+❓Where can you find the latest version of a device driver?
+
+<br>
+
+<u>Cooling<u>
+
+❓What are some of the standard sizes of case fans?
+
+❓Explain passive cooling.
+
+❓How does a heat sink work?
+
+❓What are heat sinks made of usually?
+
+❓What are some other names for thermal paste?
+
+❓What is the drawback of a thermal pad?
+
+❓When might you prefer to use liquid cooling over air cooling?
+
+❓Give an overview of how a liquid cooling system works.
+
+<br>
+
+❓3.5 - Install or replace appropriate power
+
+❓What must you ALWAYS do before working on a device?
+
+❓What voltage type does a computer use?
+
+❓What are the three common voltages supplied by a PSU?
+
+❓What is an Ampere?
+
+❓What is voltage?
+
+❓How do we calculate wattage?
+
+❓How does alternating current work?
+
+❓What is meant by hertz?
+
+❓What is one way to ensure your PSU is set to the correct voltage for your country?
+
+❓From what point to we assess whether a voltage is positive of negative?
+
+❓Name some components that use +12v.
+
+❓Name some components that use +3.3v.
+
+❓Why is 5v included in modern PSUs?
+
+❓What is the +5v standby used for?
+
+❓What could -12v be used for?
+
+❓What was -5v used for?
+
+❓Where would you find the voltages and corresponding current available from a PSU?
+
+❓What voltages are carried into the main motherboard power socket?
+
+❓Describe a redundant power supply and its uses.
+
+❓What is the main advantage of using modular power supplies over fixed?
+
+❓Why is a higher wattage not necessarily better?
+
+❓What is a good percentage for power supply wattage when choosing a PSU?
+
+<br>
+
+<u>3.6 - Deploy and configure multifunction devices, printers and settings<u>
+
+❓What does MFD stand for?
+
+❓What are some examples of MFDs?
+
+❓What do you need to ensure when acquiring drivers for MFDs and printers?
+
+❓What is PCL?  Printer command language
+
+❓Who was PCL created by?
+
+❓What is PostScript?
+
+❓Who created PostScript?
+
+❓When would you choose a PCL driver?
+
+❓When would you choose a PostScript driver?
+
+❓What is a common USB connector on a printer?
+
+❓What other cable types could you connect a printer with?
+
+❓What is 802.11 infrastructure mode?
+
+❓What is 802.11 Ad-Hoc mode?
+
+❓What is ‘Printer Share’?
+
+❓What is a Print Server?
+
+❓What are some benefits of a Print Server?
+
+❓What are some common ways of interacting with a Print Server?
+
+❓What is ‘duplex’ in printing?
+
+❓Where would you select the print tray when setting up a print job?
+
+❓What settings can be found under ‘quality’ when setting up a print job?
+
+❓What might you configure under printer security?
+
+❓What are some common ways to authenticate a user before allowing a job to print?
+
+❓What information might be found under an Audit Log?
+
+❓What is an ADF on a flatbed scanner? Automatic Document Feeder
+
+❓What are some useful things a flatbed scanner can do?
+
+<br>
+
+<u>3.7 - Install and replace printer consumables<u>
+
+<u>Laser Printers<u>
+
+❓How does a laser printer work?
+
+❓What is an imaging drum?
+
+❓What is a fuser assembly?
+
+❓What four ink colours can be found in a laser printer?
+
+❓What is the ‘belt? And what does it do?
+
+❓What is a pickup roller?
+
+❓What is a separation pad?
+
+❓What is duplexing?
+
+❓What is a ‘duplexing assembly’?
+
+❓Explain how the phases of laser printing execute.
+
+❓Why is paper warm after coming out of a laser printer?
+
+❓What are the 7 steps of laser printing?
+Processing
+Charging
+Exposing
+Developing
+Transferring
+Fusing
+Cleaning
+
+❓What is the OPC drum? Organic Photoconductor Drum
+
+❓Why must you keep an OPC drum in its bag?
+
+❓What are a laser printer’s main reasons for failing?
+
+❓What might come with a laser printer that will be useful in fixing it?
+
+❓What must you do after a laser printer repair?
+
+❓What must you do before resuming printing?
+
+❓What must be used to clean a printer?
+
+❓Why must you use cold water to wash toner off your skin?
+
+<br>
+
+<u>Inkjet printers<u>
+
+❓What are some advantages of inkjet?
+
+❓What are some drawbacks of inkjet?
+
+❓What colour inks do inkjet printers often use?
+
+❓What is a ‘print head’?
+
+❓Explain what a feed roller is.
+
+❓What is duplexing?
+
+❓What is the ‘carriage’ in an inkjet printer?
+
+❓When might you run the inkjet printer calibration?
+
+❓What do CMYK stand for?
+
+<br>
+
+<u>Thermal Printers<u>
+
+❓What are thermal printers usually used for?
+
+❓What is an advantage of a thermal printer?
+
+❓What is a disadvantage of a thermal printer?
+
+❓Explain how a thermal printer’s feed assembly works.
+
+❓What is the technical name for thermal paper? Thermochromic paper
+
+❓What happens if you put normal paper in a thermal printer?
+
+❓What should you use to clean a thermal printer?
+
+❓If using compressed air to clean a printer, where should you do this?
+
+❓Why should you not use a normal vacuum cleaner on electronics?
+
+❓Why should you avoid high temperatures with thermal paper?
+
+<br>
+
+<u>Dot Matrix/Impact Printers<u>
+
+❓Explain how a dot matrix printer works.
+
+❓What is an advantage of dot matrix printing?
+
+❓What is a disadvantage of dot matrix printing?
+
+❓What is a ‘tractor feed’ and how does it work?
+
+❓Where are the perforations on impact paper?
+
+❓What must you be careful of when replacing an impact printer’s print head?
+
+❓Why is it a good idea to replace a print head and a ribbon at the same time?
+
+<br>
+
+<u>3D printers<u>
+
+❓What is the name given to the type of manufacturing used by a 3D printer?
+
+❓What is an advantage of 3D printing?
+
+❓What is FDM? Fused Deposition Modelling
+
+❓What is the base of a 3D printer usually called?
+
+❓What is an SLA printer? Stereolithography.
+
+❓How does an SLA printer work?
+
+❓What is the main drawback of SLA printing?
+
+❓Give an overview of print beds with these two types of printing.
 
