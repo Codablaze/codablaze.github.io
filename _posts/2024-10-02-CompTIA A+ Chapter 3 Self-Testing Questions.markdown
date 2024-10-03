@@ -22,7 +22,7 @@ categories: Learning update!
 ✅ **Transmit+, Transmit-, Receive+ and Receive-**
  
 ❓What is the data throughput of Category 5 ethernet?<br>
-✅ **100Mbit/s**
+✅ **1000Mbit/s**
  
 ❓What is the range of Category 5 ethernet? <br>
 ✅ **100m**
