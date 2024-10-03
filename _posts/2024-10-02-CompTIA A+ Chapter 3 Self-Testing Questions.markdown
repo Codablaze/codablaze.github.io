@@ -57,7 +57,7 @@ categories: Learning update!
 
 With regards to these cable types:<br>
 ❓What is FEP?<br>
-✅ **Fluorine Ethyline Polymer**
+✅ **Fluorinated Ethyline Propylene**
 
 ❓What is LS-PVC?<br>
 ✅ **Low Smoke Polyvinyl Chloride**
