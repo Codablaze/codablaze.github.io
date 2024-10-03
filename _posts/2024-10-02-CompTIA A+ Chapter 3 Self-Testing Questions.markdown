@@ -27,79 +27,69 @@ categories: Learning update!
 ❓What is the range of Category 5 ethernet? <br>
 ✅ **100m**
  
-❓What is the data throughput of Category 5e ethernet? What does the ‘e’ stand for?
-✅
+❓What is the data throughput of Category 5e ethernet? What does the ‘e’ stand for?<br>
+✅ **1000Mbit/s, 'enhanced'**
  
-❓What is the range of Category 5e ethernet?
-✅ 
+❓What is the range of Category 5e ethernet?<br>
+✅ **100m**
 
-❓What is the data throughput of Category 6 ethernet?
-✅ 
+❓What is the data throughput of Category 6 ethernet?<br>
+✅ **10Gbit/s**
 
 ❓What is the range of Category 6 ethernet:<br>
-✅ **Unshielded: 55m**
-✅ **Shielded:100m**
+✅ **Unshielded: 55m**<br>
+✅ **Shielded:100m**<br>
 
-❓What is the data throughput of Category 6a ethernet? What does the ‘a’ stand for?
-✅ 
+❓What is the data throughput of Category 6a ethernet? What does the ‘a’ stand for?<br>
+✅ **10Gbit/s**
 
-❓What is the range of Category 6a ethernet?
-✅ 
+❓What is the range of Category 6a ethernet?<br>
+✅ **100m**
 
-❓Describe how a coaxial cable is constructed, and explain what it does.
-✅ 
+❓Describe how a coaxial cable is constructed, and explain what it does.<br>
+✅ **Central wire, insulation, foil shielding, braided shielding and external protective insulation. Used for RF connections.**
 
-❓What is a plenum?
-✅ 
+❓What is a plenum?<br>
+✅ **The airspace in a building. Usually industrial or commercial building.** 
 
-❓What type of network cable should be used in a plenum installation, and what is it made of?
-✅ 
+❓What type of network cable should be used in a plenum installation, and what is it made of?<br>
+✅ **Plenum rated cable, made of FEP or LS-PVC** 
 
-❓With regards to these cable types:
+With regards to these cable types:<br>
+❓What is FEP?<br>
+✅ **Fluorine Ethyline Polymer**
 
-❓What is FEP?
-✅ 
+❓What is LS-PVC?<br>
+✅ **Low Smoke Polyvinyl Chloride**
 
-❓What is LS-PVC?
-✅ 
+❓What is a drawback of plenum rated cabling?<br>
+✅ **It is not very flexible compared to normal ethernet**
 
-❓What is a drawback of plenum rated cabling?
-✅ 
+❓What does UTP stand for? <br>
+✅ **Unshielded Twisted Pair**
 
-❓What does UTP stand for? 
-✅ 
+❓What does STP stand for?<br>
+✅ **Braid-shielded Twisted Pair**  
 
-❓What does STP stand for (not spanning tree protocol, this is about cables)?
-✅ 
+❓On the outside of an ethernet cable, there are some letters printed in the following format: F/UTP. What do the following mean?<br>
+❓U/STP: ✅ **Unshielded/Braid shielded Twisted Pair**<br>
+❓U/FTP: ✅ **Unshielded/Foil shielded Twisted Pair**<br>
+❓S/FTP: ✅ **Braid shielded/Foil shielded Twisted Pair**<br>
+❓S/UTP: ✅ **Braid shielded/Unshielded Twisted Pair**<br>
+❓U/STP: ✅ **Unshielded/Braid shielded Tiwsted Pair**<br>
+❓F/UTP: ✅ **Foil shielded/Unshielded Twisted Pair**<br>
+❓S/STP: ✅ **Braid shielded/Braid shielded Twisted Pair**<br>
+❓F/FTP: ✅ **Foil shielded/Foil Shielded Twisted Pair**<br>
+❓F/STP: ✅ **Foil shielded/Braid shielded Twisted Pair**<br>
 
-❓On the outside of an ethernet cable, there are some letters printed in the following format: F/UTP. What do the following mean?
-❓U/STP
-✅ 
-❓U/FTP
-✅ 
-❓S/FTP
-✅ 
-❓S/UTP
-✅ 
-❓U/STP
-✅ 
-❓F/UTP
-✅ 
-❓S/STP
-✅ 
-❓F/FTP
-✅ 
-❓F/STP
-✅ 
+❓What do the U, S and F above stand for , respectively?<br>
+✅ **Unshielded, Braid shielded and Foil shielded** 
 
-❓What do the U, S and F above stand for , respectively?
-✅ 
+❓What is meant by ‘direct burial’ STP?<br>
+✅ **It is a stronger, more durable cable type that doesn't necessarily need to be run through a conduit. It can be buried directly into the ground** 
 
-❓What is meant by ‘direct burial’ STP?
-✅ 
-
-❓What is the ‘drain wire’ in a direct burial STP cable?
-✅ 
+❓What is the ‘drain wire’ in a direct burial STP cable?<br>
+✅ **It's another name for a ground, or earth wire** 
 
 <br>
 
