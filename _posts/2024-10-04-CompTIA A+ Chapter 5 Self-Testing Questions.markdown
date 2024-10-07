@@ -178,144 +178,208 @@ categories: Learning update!
 <u>5.3 - Troubleshooting storage devices<u>
 
 ❓ What are some common storage troubleshoots?<br>
+✅ **Unplug and replug, set HDD in a different bay or device, try different cables, take a look at them physically**<br>
 
 ❓ How could you run a diagnostic on a damaged storage drive?<br>
+✅ **Move drive to a known good computer, get the diagnostic software from the drive manufacturer**<br>
 
 ❓ How would you diagnose boot failures?<br>
+✅ **Interrupting the boot sequence and looking at things like boot order in the BIOS, and checking to see if the machine can even see the drive**<br>
 
 ❓ What might cause a RAID error?<br>
+✅ **A missing or damaged drive**<br>
 
 ❓ What should you check before removing RAID drives?<br>
+✅ **The RAID console supplied by the manufacturer**<br>
 
 ❓ What does SMART stand for in RAID? <br>
-Self Monitoring, Analysis and Reporting Technology.
+✅ **Self monitoring, Analysis and Reporting Technology**<br>
 
 ❓ What could be the cause of extended read/write times?<br>
+✅ **Issues on the bus, any damaged cable, internal drive errors, or even a drive wearing out**<br>
 
 ❓ What does IOPS stand for?<br>
+✅ **Independent operations**<br>
 
 ❓ What is an average expected amount of IOPS on a spinning HDD?<br>
+✅ **200**<br>
 
 ❓ What is an average expected amount of IOPS on an SSD?<br>
+✅ **1,000,000, 1 million**<br>
 
 ❓ Why might drives be missing in an OS?<br>
+✅ **Damaged, not seated correctly, or the BIOS is configured to exclude them**<br>
 
 ❓ What steps should you take to diagnose image quality problems?<br>
+✅ **Re-seat cables, check resolution settings, restart**<br>
 
 ❓ What steps might you take with resolution issues?<br>
+✅ **Check settings, map res to native, or a multiple of native, take further steps if not resolved, such as checking drivers**<br>
 
 ❓ What is burn-in?<br>
+✅ **When a single image has been displayed for a long time without changing, the hardware can become damaged with a permanent mark of that image on the screen**<br>
 
 ❓ What is pixel-shift?<br>
+✅ **An image is moved incrementally by a few pixels, to prevent burn in**<br>
 
 ❓ What is a dead pixel?<br>
+✅ **A pixel where the diode is burnt out. It will never light up or change colour again. Stuck on black**<br>
 
 ❓ What simple step could you take to verify you actually have a dead pixel?<br>
+✅ **Clean the screen, change the image**<br>
 
 ❓ How could you troubleshoot a flickering screen?<br>
+✅ **Reseat all cables, restart machine, check display settings and reset to defaults. Plug screen into another machine if possible**<br>
 
 ❓ How might you fix an incorrect colour on a display?<br>
+✅ **In display settings, check for any active filters such as colourblind modes, negative filters or eye comfort**<br>
 
 ❓ How could you troubleshoot audio issues?<br>
+✅ **Reseat cables, connect and reconnect devices, switch to another machine, ensure the file being played doesn't have odd settings such as pitch shift or slowdown. After that, check drivers**<br>
 
 ❓ What could be some reasons for a dim image?<br>
+✅ **Brightness is set to low, screen is broken, or cable is damaged**<br>
 
 ❓ What is the lamp in an LCD projector called?<br>
+✅ **Metal-Halide Lamp**<br>
 
 ❓ Why should you leave a projector fan running after shutdown?<br>
+✅ **To make sure the lamp is cooled at an even temperature, reducing over a steady and long gradient, else the lamp could crack**<br>
 
 <br>
 
 <u>5.5 - Troubleshooting mobile devices<u>
 
 ❓ How can you extend a phone’s battery life in an area with no signal?<br>
+✅ **Put it in flight mode**<br>
 
 ❓ How can you verify which apps are using lots of battery?<br>
+✅ **In the settings menu: Settings > Battery**<br>
 
 ❓ If a battery is swollen, how should you handle the situation?<br>
+✅ **Do not pierce the protective bag, dispose at your nearest hazardous materials disposal centre**<br>
 
 ❓ What should you do before a screen replacement?<br>
+✅ **Back everything up, then cover the screen with tape if it is smashed**<br>
 
 ❓ If a phone isn’t charging, or is charging slowly, what should you do first?<br>
+✅ **Check and carefully clean out the charging port. Also check with a different cable**<br>
 
 ❓ If devices are struggling to connect to an access point on your network, what steps could you take?<br>
+✅ **Check with a different access point, check cabling to that access point, and look over the settings to make sure everything is configured correctly**<br>
 
 ❓ What is an LCI?<br>
+✅ **Liquid Contact Indicator**<br>
 
 ❓ What is better than rice for drying out a phone?<br>
+✅ **Silica Gel**<br>
 
 ❓ If a phone gets wet, what should you do before powering it up?<br>
+✅ **Leave it to dry for an entire day, or even longer if possible**<br>
 
 ❓ If a phone is having screen issues, what could you do to boost it back to life?<br>
+✅ **A hard reset**<br>
 
 ❓ How can you check for symptoms of malware?<br>
+✅ **Check if the is phone overheating or slowing down**<br>
 
 <br>
 
 <u>5.6 - Troubleshooting printers<u>
 
 ❓ What is the Windows test page feature and where can it be found?<br>
+✅ **It allows you to print a sort of calibration page, and it can be found in the print menu on Windows**<br>
 
 ❓ If you have random marks or lines down a printed page, what are possible causes for laser printers or inkjet printers? How can this be resolved?<br>
+✅ **A scratch on the photosensitive drum, or damage to the print head. Replace those components**<br>
 
 ❓ What might you see on the printed page if the Organic Photosensitive Drum isn’t clean?<br>
+✅ **Ghost or shadow printing later down the page, usually a duplication of the last information written to the drum**<br>
 
 ❓ What might be the cause of lots of random code on the printed page? How might you troubleshoot this issue?<br>
+✅ **Data sent using the wrong print language, or an incorrect driver**<br>
 
 ❓ What could cause smudged ink? How might you easily resolve this issue?<br>
+✅ **The fuser assembly has worn out or is faulty. Replace the fuser assembly**<br>
 
 ❓ What can be some common causes of paper jams in a printer?<br>
+✅ **The feed rollers have worn out, something in the feed tray mechanism has been damaged or come loose, or wrong paper size selected**<br>
 
 ❓ What can cause multiple prints pending in a print queue?<br>
+✅ **Something physical like a paper jam or ink running out, corrupted print jobs, or a software issue like an error communicating with the printer**<br>
 
 ❓ Where might you find logged problems?<br>
+✅ **Windows event viewer or Windows-Printservice**<br>
 
 ❓ What should you do if you hear a grinding noise from a printer?<br>
+✅ **Power it down, check the manuals, then start the troubleshoot**<br>
 
 ❓ What could cause issues with ‘finishing’?<br>
+✅ **Worn down or damaged fuser assembly**<br>
 
 ❓ What could cause prints to come out at the wrong orientation?<br>
+✅ **Incorrect orientation selected in the print menu**<br>
 
 <br>
 
 <u>5.7 - Troubleshooting Network Issues<u>
 
 ❓ What is a link light?<br>
+✅ **The light on a switch that indicates a cable is connecting to a device on the network**<br>
 
 ❓ What is ping loopback? <br>
+✅ **A cable that loops back on itself, connected into an RJ45 connector, used to test functionality of a physical port**<br>
 
 ❓ Why should we start by pinging loopback (127.0.0.1)?<br>
+✅ **To see if the device is even capable of network communication**<br>
 
 ❓ Why should we then ping the local IP?<br>
+✅ **To check that the device can communicate out to a network by talking to its own location**<br>
 
 ❓ Why should we then ping the default gateway?<br>
+✅ **To check that internet access is possible, as well as a device connecting to its own network. You could also ping other known IPs on the network during this step**<br>
 
 ❓ Why should we then ping something like Google’s DNS server?<br>
+✅ **To verify internet connectivity and communication**<br>
 
 ❓ What could cause wireless network interference?<br>
+✅ **High voltages nearby, lots of traffic on that frequency, or faulty hardware**<br>
 
 ❓ What steps could you take to fix wireless connectivity issues?<br>
+✅ **Reset routers, check any cables, check signal strength, ensure settings are configured correctly and switch channels to find one that is less crowded**<br>
 
 ❓ What are some devices that can cause wireless interference?<br>
+✅ **Baby monitors, fluorescent lights, microwaves, cordless phones**<br>
 
 ❓ What is SNR?<br>
+✅ **Signal to noise ratio**<br>
 
 ❓ How can you measure/calculate SNR?<br>
+✅ **Using wireless scanner software**<br>
 
 ❓ What is the best SNR?<br>
+✅ **A large variation where the values to do not match**<br>
 
 ❓ What should you check if windows has limited or no connectivity?<br>
+✅ **ipconfig to see what the ip address setup is. Is there a local gateway assigned?**<br>
 
 ❓ How could an APIPA address cause connectivity issues?<br>
+✅ **APIPA doesn't assign a local gateway**<br>
 
 ❓ What is ‘Jitter’?<br>
+✅ **The time between frames. In real time comms, it is when each data frame is sent at irregular intervals, there is said to be a lot of jitter**<br>
 
 ❓ What are the best network conditions for VoIP?<br>
+✅ **A standard, steady, regular frame rate, even if the rate isn't very quick**<br>
 
 ❓ How do we define latency?<br>
+✅ **The time spent between request and response**<br>
 
 ❓ What is packet capture and how can it help you diagnose latency faults?<br>
+✅ **It can tell you at what stage the delay is happening, down to the microsecond. From there you can assess whether you have hardware or software causing the issue**<br>
 
 ❓ What is ‘port flapping’?<br>
+✅ **When a physical port on a switch is dropping in and out of connectivity**<br>
 
 ❓ What is the first step you should take when troubleshooting port flapping?<br>
+✅ **Switch the cable to isolate whether it's the port or the cable causing the issue**<br>
