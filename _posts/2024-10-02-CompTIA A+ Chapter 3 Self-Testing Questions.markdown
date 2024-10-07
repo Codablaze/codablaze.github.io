@@ -95,74 +95,74 @@ With regards to these cable types:<br>
 
 <u>Fibre ethernet:<u>
 
-❓Why is fibre ethernet more secure than copper?
+❓Why is fibre ethernet more secure than copper?<br>
 ✅ 
 
-❓Why is fibre ethernet more efficient than copper?
+❓Why is fibre ethernet more efficient than copper?<br>
 ✅ 
 
-❓What is the central ‘High Reflective Index’ also called?
+❓What is the central ‘High Reflective Index’ also called?<br>
 ✅ 
 
-❓What is the mid-section ‘Low reflective index’ also called?
+❓What is the mid-section ‘Low reflective index’ also called?<br>
 ✅ 
 
-❓What is the exterior ‘mechanical coating’ also called?
+❓What is the exterior ‘mechanical coating’ also called?<br>
 ✅ 
 
-❓What is a ferrule, and what is it made of?
+❓What is a ferrule, and what is it made of?<br>
 ✅ 
 
-❓What is multimode fibre, and what is used for?
+❓What is multimode fibre, and what is used for?<br>
 ✅ 
 
-❓What distance is considered ‘short range’ with fibre?
+❓What distance is considered ‘short range’ with fibre?<br>
 ✅ 
 
-❓What is single mode fibre?
+❓What is single mode fibre?<br>
 ✅ 
 
-❓What distance can single mode fibre cover?
+❓What distance can single mode fibre cover?<br>
 ✅ 
 
-❓What is considered ‘long distance’ in fibre terms?
+❓What is considered ‘long distance’ in fibre terms?<br>
 ✅ 
 
 <br>
 
 <u>568A and 568B colours:<u>
 
-❓What is the international cabling standard for 568A and 568A? 
+❓What is the international cabling standard for 568A and 568A?<br>
 ✅ 
 
-❓What is the TIA?
+❓What is the TIA?<br>
 ✅ 
 
-❓What does ANSI stand for?
+❓What does ANSI stand for?<br>
 ✅ 
 
-❓What type of buildings does the ANSI/TIA-568 standard cover?
+❓What type of buildings does the ANSI/TIA-568 standard cover?<br>
 ✅ 
 
-❓What is the resistance rating of a single conductor in a twisted pair cable?
+❓What is the resistance rating of a single conductor in a twisted pair cable?<br>
 ✅ 
 
-❓What is meant by ‘conductor’ in this context?
+❓What is meant by ‘conductor’ in this context?<br>
 ✅ 
 
-❓How many ‘conductors’ are there in total?
+❓How many ‘conductors’ are there in total?<br>
 ✅ 
 
-❓What does 8P8C stand for, and what is it referring to? 
+❓What does 8P8C stand for, and what is it referring to? <br>
 ✅ 
 
-❓Can you cross over 568A and 568B standards on alternate ends of a cable?
+❓Can you cross over 568A and 568B standards on alternate ends of a cable?<br>
 ✅ 
 
-❓What is an ethernet crossover cable?
+❓What is an ethernet crossover cable?<br>
 ✅ 
 
-❓What is the colour order for 568A wiring?
+❓What is the colour order for 568A wiring?<br>
 ✅ 
 **White and Green
 **Green
@@ -173,7 +173,7 @@ With regards to these cable types:<br>
 **White and Brown
 **Brown
 
-❓What is the colour order for 568B wiring?
+❓What is the colour order for 568B wiring?<br>
 ✅ 
 **White and Orange
 **Orange
@@ -184,434 +184,433 @@ With regards to these cable types:<br>
 **White and Brown
 **Brown
 
-❓What is a helpful shortcut to remembering the differences between the two colour orders?
+❓What is a helpful shortcut to remembering the differences between the two colour orders?<br>
 ✅ 
 
-❓How can you quickly verify which standard is being used?
+❓How can you quickly verify which standard is being used?<br>
 ✅ 
 
-❓What is a punch down block?
+❓What is a punch down block?<br>
 ✅ 
 <br>
 
 <u>Peripheral cables:<u>
 
-❓What does USB stand for?
+❓What does USB stand for?<br>
 ✅ 
 
-❓What was the speed of low speed USB 1.1?
+❓What was the speed of low speed USB 1.1?<br>
 ✅ 
 
-❓What was the range of low speed USB 1.1?
+❓What was the range of low speed USB 1.1?<br>
 ✅ 
 
-❓What was the speed of Full speed USB 1.1?
+❓What was the speed of Full speed USB 1.1?<br>
 ✅ 
 
-❓What was the range of Full speed USB 1.1?
+❓What was the range of Full speed USB 1.1?<br>
 ✅ 
 
-❓What was the speed of USB 2.0?
+❓What was the speed of USB 2.0?<br>
 ✅ 
 
-❓What was the range of USB 2.0?
+❓What was the range of USB 2.0?<br>
 ✅ 
 
-❓What is the speed of USB 3.0?
+❓What is the speed of USB 3.0?<br>
 ✅ 
 
-❓What is the range of USB 3.0?
+❓What is the range of USB 3.0?<br>
 ✅ 
 
-❓Name 5 USB connectors.
+❓Name 5 USB connectors.<br>
 ✅ 
 
-❓Why is USB-C so cool?
+❓Why is USB-C so cool?<br>
 ✅ 
 
-❓What is USB 3.1 and how did it change the naming conventions?
+❓What is USB 3.1 and how did it change the naming conventions?<br>
 ✅ 
 
-❓When did USB 3.1 come out?
+❓When did USB 3.1 come out?<br>
 ✅ 
 
-❓When did USB 3.2 come out?
+❓When did USB 3.2 come out?<br>
 ✅ 
 
-❓What did USB 3.2 do to the naming conventions of USB 3.1?
+❓What did USB 3.2 do to the naming conventions of USB 3.1?<br>
 ✅ 
 
-❓What is the speed of USB 3.2 gen 1?
+❓What is the speed of USB 3.2 gen 1?<br>
 ✅ 
 
-❓What is the speed of USB 3.2 gen 2?
+❓What is the speed of USB 3.2 gen 2?<br>
 ✅ 
 
-❓What is the speed of USB gen 1x1?
+❓What is the speed of USB gen 1x1?<br>
 ✅ 
 
-❓What is the speed of USB gen 2x2?
+❓What is the speed of USB gen 2x2?<br>
 ✅ 
 
-❓What was the original thunderbolt connector based around?
+❓What was the original thunderbolt connector based around?<br>
 ✅ 
 
-❓How many channels did Thunderbolt v1 have?
+❓How many channels did Thunderbolt v1 have?<br>
 ✅ 
 
-❓What was the speed per channel of thunderbolt v1?
+❓What was the speed per channel of thunderbolt v1?<br>
 ✅ 
 
-❓What was the speed of Thunderbolt v2, and how did it differ from v1?
+❓What was the speed of Thunderbolt v2, and how did it differ from v1?<br>
 ✅ 
 
-❓What is the aggregated throughput of Thunderbolt v3?
+❓What is the aggregated throughput of Thunderbolt v3?<br>
 ✅ 
 
-❓What type of connector did Thunderbolt v3 change to?
+❓What type of connector did Thunderbolt v3 change to?<br>
 ✅ 
 
-❓What is the maximum range of copper based Thunderbolt?
+❓What is the maximum range of copper based Thunderbolt?<br>
 ✅ 
 
-❓What is the maximum range of optical Thunderbolt?
+❓What is the maximum range of optical Thunderbolt?<br>
 ✅ 
 
-❓How many devices can be daisy chained through Thunderbolt?
+❓How many devices can be daisy chained through Thunderbolt?<br>
 ✅ 
 
-❓What was the signal standard that predated USB?
+❓What was the signal standard that predated USB?<br>
 ✅ 
 
-❓When did that standard get introduced?
+❓When did that standard get introduced?<br>
 ✅ 
 
-❓Name 2 connectors that used this standard:
+❓Name 2 connectors that used this standard:<br>
 ✅ 
 
 <br>
 
 <u>Video cables:<u>
 
-❓What is a DB-15 connector usually referred to as?
+❓What is a DB-15 connector usually referred to as?<br>
 ✅ 
 
-❓What colour is a DB-15 connector?
+❓What colour is a DB-15 connector?<br>
 ✅ 
 
-❓What is a drawback of this connector type?
+❓What is a drawback of this connector type?<br>
 ✅ 
 
-❓What is the functional working length of a VGA cable before the signal starts to significantly degrade?
+❓What is the functional working length of a VGA cable before the signal starts to significantly degrade?<br>
 ✅ 
 
-❓How many pins does a VGA connector use?
+❓How many pins does a VGA connector use?<br>
 ✅ 
 
-❓What does HDMI stand for?
+❓What does HDMI stand for?<br>
 ✅ 
 
-❓What is the maximum functional length of HDMI?
+❓What is the maximum functional length of HDMI?<br>
 ✅ 
 
-❓How many pins does a HDMI cable have?
+❓How many pins does a HDMI cable have?<br>
 ✅ **19 
 
-❓What is Display Port?
+❓What is Display Port?<br>
 ✅ 
 
-❓Why is the Display Port connector so damn good?
+❓Why is the Display Port connector so damn good?<br>
 ✅ 
 
-❓Display Port is passively compatible with HDMI. What does this mean?
+❓Display Port is passively compatible with HDMI. What does this mean?<br>
 ✅ 
 
-❓What does DVI stand for?
+❓What does DVI stand for?<br>
 ✅ 
 
-❓How many types of DVI connector are there?
+❓How many types of DVI connector are there?<br>
 ✅ 
 
-❓What does DVI-A stand for?
+❓What does DVI-A stand for?<br>
 ✅ 
 
-❓What is the data throughput of single link DVI?
+❓What is the data throughput of single link DVI?<br>
 ✅ 
 
-❓What is the max framerate of dual link DVI?
+❓What is the max framerate of dual link DVI?<br>
 ✅ 
 
-❓What does DVI-D stand for?
+❓What does DVI-D stand for?<br>
 ✅ 
 
-❓What link types can DVI-D support?
+❓What link types can DVI-D support?<br>
 ✅ 
 
-❓What is the max data rate of DVI-D?
+❓What is the max data rate of DVI-D?<br>
 ✅ 
 
-❓What is the max frame rate of DVI-D?
+❓What is the max frame rate of DVI-D?<br>
 ✅ 
 
-❓Does DVI support audio?
+❓Does DVI support audio?<br>
 ✅ 
 
-❓What does DVI-I stand for?
+❓What does DVI-I stand for?<br>
 ✅ 
 
-❓Which DVI types can support both single and dual link?
+❓Which DVI types can support both single and dual link?<br>
 ✅ 
 
-❓Why do most DVI ports allow conversion to HDMI?
+❓Why do most DVI ports allow conversion to HDMI?<br>
 ✅ 
 
 <br>
 
 <u>SATA device cables:<u>
 
-❓What did PATA stand for?
+❓What did PATA stand for?<br>
 ✅ 
 
-❓What does SATA stand for?
+❓What does SATA stand for?<br>
 ✅ 
 
-❓How many versions of SATA have there been?
+❓How many versions of SATA have there been?<br>
 ✅ 
 
-❓What was the maximum speed of SATA revision 1?
+❓What was the maximum speed of SATA revision 1?<br>
 ✅ 
 
-❓What was the maximum speed of SATA revision 2?
+❓What was the maximum speed of SATA revision 2?<br>
 ✅ 
 
-❓What was the maximum speed of SATA revision 3?
+❓What was the maximum speed of SATA revision 3?<br>
 ✅ 
 
-❓What is the maximum speed of SATA revision 3.2?
+❓What is the maximum speed of SATA revision 3.2?<br>
 ✅ 
 
-❓What is meant by eSATA, and what is its range?
+❓What is meant by eSATA, and what is its range?<br>
 ✅ 
 
-❓What are the two connector types on a SATA drive?
+❓What are the two connector types on a SATA drive?<br>
 ✅ 
 
-❓How many pins does the SATA power connection have?
+❓How many pins does the SATA power connection have?<br>
 ✅ 
 
-❓How many pins does the SATA data connection have?
+❓How many pins does the SATA data connection have?<br>
 ✅ 
 
-❓Describe some defining features of the SATA connections on a motherboard?
+❓Describe some defining features of the SATA connections on a motherboard?<br>
 ✅ 
 
-❓In what way is an eSATA connector different from an internal SATA connector?
+❓In what way is an eSATA connector different from an internal SATA connector?<br>
 ✅ 
 
 <br>
 
 <u>SCSI cables<u>
 
-❓What does SCSI stand for?
+❓What does SCSI stand for?<br>
 ✅ 
 
-❓How many devices can you have in a SCSI daisy chain?
+❓How many devices can you have in a SCSI daisy chain?<br>
 ✅ 
 
-❓What sort of legacy devices was SCSI used to connect to?
+❓What sort of legacy devices was SCSI used to connect to?<br>
 ✅ 
 
-❓Why was SCSI very easy to use?
+❓Why was SCSI very easy to use?<br>
 ✅ 
 
-❓Where might you find SCSI still in use?
+❓Where might you find SCSI still in use?<br>
 ✅ 
 
-❓What two widths did SCSI cables have?
+❓What two widths did SCSI cables have?<br>
 ✅ 
 
-❓Describe SCSI ID and LUN:
+❓Describe SCSI ID and LUN:<br>
 ✅ 
 
-❓What does LUN stand for?
+❓What does LUN stand for?<br>
 ✅ 
 
-❓What might you place at the end of a SCSI cable?
+❓What might you place at the end of a SCSI cable?<br>
 ✅ 
 
-❓With SCSI, what is SAS, and why is it helpful?
+❓With SCSI, what is SAS, and why is it helpful?<br>
 ✅ 
 
-❓How are SCSI IDs often set?
+❓How are SCSI IDs often set?<br>
 ✅ 
 
-❓What were the benefits of migrating SCSI to SAS?
+❓What were the benefits of migrating SCSI to SAS?<br>
 ✅ 
 
-❓PATA cables
+<u>PATA cables<u>
+
+❓What did PATA stand for?<br>
 ✅ 
 
-❓What did PATA stand for?
+❓What did IDE stand for?<br>
 ✅ 
 
-❓What did IDE stand for? Integrated drive electronics
+❓What did EIDE stand for?<br>
 ✅ 
 
-❓What did EIDE stand for?
+❓What speeds did PATA start at, and evolve to eventually?<br>
 ✅ 
 
-❓What speeds did PATA start at, and evolve to eventually?
+❓How many wires did the two different types of PATA each have?<br>
 ✅ 
 
-❓How many wires did the two different types of PATA each have?
+❓In the 40 wire cable, in what order were slot 0 and slot 1?<br>
 ✅ 
 
-❓In the 40 wire cable, in what order were slot 0 and slot 1?
+❓In the 80 wire cable, in what order were slot 0 and slot 1?<br>
 ✅ 
 
-❓In the 80 wire cable, in what order were slot 0 and slot 1?
+❓Why do PATA connectors have a notch and a missing pin?<br>
 ✅ 
 
-❓Why do PATA connectors have a notch and a missing pin?
-✅ 
-
-❓What power connector type does PATA use?
+❓What power connector type does PATA use?<br>
 ✅ 
 
 <br>
 
 <u>Converters<u>
 
-❓Why does DVI-A convert to VGA alright?
+❓Why does DVI-A convert to VGA alright?<br>
 ✅ 
 
-❓List some connections you might find on a modern USB hub.
+❓List some connections you might find on a modern USB hub.<br>
 ✅ 
 
 <br>
 
 <u>Copper connectors:<u>
 
-❓What is an RJ11 connector?
+❓What is an RJ11 connector?<br>
 ✅ 
 
-❓What is meant by 6P2C?
+❓What is meant by 6P2C?<br>
 ✅ 
 
-❓What is meant by 6P4C?
+❓What is meant by 6P4C?<br>
 ✅ 
 
-❓What is an RJ45 connector?
+❓What is an RJ45 connector?<br>
 ✅ 
 
-❓What does 8P8C mean?
+❓What does 8P8C mean?<br>
 ✅ 
 
-❓What is an F-Connector?
+❓What is an F-Connector?<br>
 ✅ 
 
-❓What is a punchdown block?
+❓What is a punchdown block?<br>
 ✅ 
 
-❓In what way is a USB 3.0 micro-b plug really weird?
+❓In what way is a USB 3.0 micro-b plug really weird?<br>
 ✅ 
 
-❓What is a Molex connector?
+❓What is a Molex connector?<br>
 ✅ 
 
-❓What two voltages does Molex supply?
+❓What two voltages does Molex supply?<br>
 ✅ 
 
-❓What is the longer, technical name for a DB-9 connector? D-subminiature
+❓What is the longer, technical name for a DB-9 connector?<br>
 ✅ 
 
-❓Where could you still find a DB-9 connector in a more modern setting?
+❓Where could you still find a DB-9 connector in a more modern setting?<br>
 ✅ 
 
 <br>
 
 <u>Fibre connectors<u>
 
-❓What is an LC connector?
+❓What is an LC connector?<br>
 ✅ 
 
-❓What are the two connections on an LC connector called?
+❓What are the two connections on an LC connector called?<br>
 ✅ 
 
-❓What is an ST connector?
+❓What is an ST connector?<br>
 ✅ 
 
-❓What is an SC connector?
+❓What is an SC connector?<br>
 ✅ 
 
 <br>
 
 <u>3.2 - Install appropriate RAM<u>
 
-❓What does RAM stand for?
+❓What does RAM stand for?<br>
 ✅ 
 
-❓What is RAM?
+❓What is RAM?<br>
 ✅ 
 
-❓What is a DIMM?
+❓What is a DIMM?<br>
 ✅ 
 
-❓What is the data width of a DIMM?
+❓What is the data width of a DIMM?<br>
 ✅ 
 
-❓What is a SO-DIMM?
+❓What is a SO-DIMM?<br>
 ✅ 
 
-❓What does DRAM stand for?
+❓What does DRAM stand for?<br>
 ✅ 
 
-❓What is meant by dynamic?
+❓What is meant by dynamic?<br>
 ✅ 
 
-❓In what way is RAM random?
+❓In what way is RAM random?<br>
 ✅ 
 
-❓What is SDRAM?
+❓What is SDRAM?<br>
 ✅ 
 
-❓What is SDRAM synchronised to?
+❓What is SDRAM synchronised to?<br>
 ✅ 
 
-❓What does DDR stand for?
+❓What does DDR stand for?<br>
 ✅ 
 
-❓What did SDR stand for?
+❓What did SDR stand for?<br>
 ✅ 
 
-❓What was the chip capacity of DDR3 SDRAM?
+❓What was the chip capacity of DDR3 SDRAM?<br>
 ✅ 
 
-❓What was the chip capacity of DDR4 SDRAM?
+❓What was the chip capacity of DDR4 SDRAM?<br>
 ✅ 
 
-❓What is the chip capacity of DDR5 SDRAM?
+❓What is the chip capacity of DDR5 SDRAM?<br>
 ✅ 
 
-❓What is VRAM?
+❓What is VRAM?<br>
 ✅ 
 
-❓What is a swap file?
+❓What is a swap file?<br>
 ✅ 
 
-❓Why is VRAM not a great process?
+❓Why is VRAM not a great process?<br>
 ✅ 
 
-❓What is multi-channel memory?
+❓What is multi-channel memory?<br>
 ✅ 
 
-❓Where might you find self-checking memory?
+❓Where might you find self-checking memory?<br>
 ✅ 
 
-❓What is parity memory?
+❓What is parity memory?<br>
 ✅ 
 
-❓How does ‘even parity’ work?
+❓How does ‘even parity’ work?<br>
 ✅ 
 
 <br>
@@ -620,134 +619,134 @@ With regards to these cable types:<br>
 
 <u>Storage devices<u>
 
-❓What is a HDD?
+❓What is a HDD?<br>
 ✅ 
 
-❓What is meant by non-volatile magnetic storage?
+❓What is meant by non-volatile magnetic storage?<br>
 ✅ 
 
-❓Explain Spindle, Arm, Actuator, Head and Platter in a HDD.
+❓Explain Spindle, Arm, Actuator, Head and Platter in a HDD.<br>
 ✅ 
 
-❓What is the average rotational latency of a drive spinning at 15,000 rpm?
+❓What is the average rotational latency of a drive spinning at 15,000 rpm?<br>
 ✅ 
  
-❓What is the average rotational latency of a drive spinning at 10,000 rpm?
+❓What is the average rotational latency of a drive spinning at 10,000 rpm?<br>
 ✅ 
 
-❓What is the average rotational latency of a drive spinning at 7.200 rpm?
+❓What is the average rotational latency of a drive spinning at 7.200 rpm?<br>
 ✅ 
 
-❓What is the average rotational latency of a drive spinning at 5,400 rpm?
+❓What is the average rotational latency of a drive spinning at 5,400 rpm?<br>
 ✅ 
 
-❓What is an SSD?
+❓What is an SSD?<br>
 ✅ 
 
-❓What is non-volatile memory?
+❓What is non-volatile memory?<br>
 ✅ 
 
-❓What interface is used to connect to a HDD or SSD?
+❓What interface is used to connect to a HDD or SSD?<br>
 ✅ 
 
-❓What is mSATA?
+❓What is mSATA?<br>
 ✅ 
 
-❓What is m.2?
+❓What is m.2?<br>
 ✅ 
 
-❓What is AHCI? Advanced Host Controller Interface
+❓What is AHCI?<br>
 ✅ 
 
-❓What is NVMe? Non volatile memory express
+❓What is NVMe?<br>
 ✅ 
 
-❓What is the speed of the m.2 NVMe interface?
+❓What is the speed of the m.2 NVMe interface?<br>
 ✅ 
 
-❓What are the different ‘keys’ of an m.2 interface?
+❓What are the different ‘keys’ of an m.2 interface?<br>
 ✅ 
 
-❓Does using an m.2 interface and drive guarantee that you are using NVMe?
+❓Does using an m.2 interface and drive guarantee that you are using NVMe?<br>
 ✅ 
 
-❓What does EEPROM stand for?
+❓What does EEPROM stand for?<br>
 ✅ 
 
-❓Name some different types of flash drive:
+❓Name some different types of flash drive:<br>
 ✅ 
 
-❓What is a good use for optical drives in modern times?
+❓What is a good use for optical drives in modern times?<br>
 ✅ 
 
 <br>
 
 <u>RAID storage<u>
 
-❓What does RAID stand for?
+❓What does RAID stand for?<br>
 ✅ 
 
-❓Is RAID a backup?
+❓Is RAID a backup?<br>
 ✅ 
 
-❓What is RAID 0 also called?
+❓What is RAID 0 also called?<br>
 ✅ 
 
-❓Give an overview of how RAID 0 works?
+❓Give an overview of how RAID 0 works?<br>
 ✅ 
 
-❓What is an advantage of RAID 0?
+❓What is an advantage of RAID 0?<br>
 ✅ 
 
-❓What is the major drawback of RAID 0?
+❓What is the major drawback of RAID 0?<br>
 ✅ 
 
-❓What is RAID 1 also called?
+❓What is RAID 1 also called?<br>
 ✅ 
 
-❓Give an overview of how RAID 1 works?
+❓Give an overview of how RAID 1 works?<br>
 ✅ 
 
-❓What is a benefit of RAID 1?
+❓What is a benefit of RAID 1?<br>
 ✅ 
 
-❓What is the main drawback of RAID 1?
+❓What is the main drawback of RAID 1?<br>
 ✅ 
 
-❓What is RAID 5 also referred to as? Striping with Parity
+❓What is RAID 5 also referred to as?<br>
 ✅ 
 
-❓What are the minimum amount of disks required to run a RAID 5 system?
+❓What are the minimum amount of disks required to run a RAID 5 system?<br>
 ✅ 
 
-❓If your data was stored on two drives with RAID 5, what is the extra disk used for?
+❓If your data was stored on two drives with RAID 5, what is the extra disk used for?<br>
 ✅ 
 
-❓What is the name given to the ‘extra disk’ in RAID 5?
+❓What is the name given to the ‘extra disk’ in RAID 5?<br>
 ✅ 
 
-❓Give an overview of how RAID 5 works.
+❓Give an overview of how RAID 5 works.<br>
 ✅ 
 
-❓What are the main advantages of RAID 5?
+❓What are the main advantages of RAID 5?<br>
 ✅ 
 
-❓What is the main drawback of RAID 5?
+❓What is the main drawback of RAID 5?<br>
 ✅ 
 
-❓What is RAID 10 also referred to as?
+❓What is RAID 10 also referred to as?<br>
 ✅ 
 
-❓Give an overview of how RAID 10 works?
+❓Give an overview of how RAID 10 works?<br>
 ✅ 
 
-❓What is the main advantage of RAID 10?
+❓What is the main advantage of RAID 10?<br>
 ✅ 
 
-❓What is the main drawback of RAID 10?
+❓What is the main drawback of RAID 10?<br>
 ✅ 
 
-❓What is the minimum amount of drives used to run a RAID 10 system?
+❓What is the minimum amount of drives used to run a RAID 10 system?<br>
 ✅ 
 
 <br>
