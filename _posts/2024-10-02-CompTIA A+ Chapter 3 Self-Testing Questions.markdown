@@ -96,37 +96,37 @@ With regards to these cable types:<br>
 <u>Fibre ethernet:<u>
 
 ❓Why is fibre ethernet more secure than copper?<br>
-✅ 
+✅ **Cannot be monitored because it does not emit an electrical field**
 
 ❓Why is fibre ethernet more efficient than copper?<br>
-✅ 
+✅ **Light travels further, faster, because copper is subject to impedance**
 
 ❓What is the central ‘High Reflective Index’ also called?<br>
-✅ 
+✅ **The core**
 
 ❓What is the mid-section ‘Low reflective index’ also called?<br>
-✅ 
+✅ **Cladding**
 
 ❓What is the exterior ‘mechanical coating’ also called?<br>
-✅ 
+✅ **Buffer coating**
 
 ❓What is a ferrule, and what is it made of?<br>
-✅ 
+✅ **A protective casing at the end of fibre cable, made of ceramic**
 
 ❓What is multimode fibre, and what is used for?<br>
-✅ 
+✅ **A less efficient type of fibre that bounces multiple signals off the walls of the cable, usually sourced from an LED shorter range of 2km**
 
 ❓What distance is considered ‘short range’ with fibre?<br>
-✅ 
+✅ **2km**
 
 ❓What is single mode fibre?<br>
-✅ 
+✅ **A more efficient type of fibre, that beams a single light source straight, usually a laser, down a cable**
 
 ❓What distance can single mode fibre cover?<br>
-✅ 
+✅ **100km**
 
 ❓What is considered ‘long distance’ in fibre terms?<br>
-✅ 
+✅ **100km**
 
 <br>
 
@@ -164,28 +164,28 @@ With regards to these cable types:<br>
 
 ❓What is the colour order for 568A wiring?<br>
 ✅ 
-**White and Green
-**Green
-**White and Orange
-**Blue
-**White and Blue
-**Orange
-**White and Brown
-**Brown
+**White and Green**<br>
+**Green**<br>
+**White and Orange**<rb>
+**Blue**<br>
+**White and Blue**<br>
+**Orange**<br>
+**White and Brown**<br>
+**Brown**<br>
 
 ❓What is the colour order for 568B wiring?<br>
 ✅ 
-**White and Orange
-**Orange
-**White and Green
-**Blue
-**White and Blue
-**Green
-**White and Brown
-**Brown
+**White and Orange**<br>
+**Orange**<br>
+**White and Green**<br>
+**Blue**<br>
+**White and Blue**<br>
+**Green**<br>
+**White and Brown**<br>
+**Brown**<br>
 
 ❓What is a helpful shortcut to remembering the differences between the two colour orders?<br>
-✅ 
+✅ **Orange and green swap over**
 
 ❓How can you quickly verify which standard is being used?<br>
 ✅ 
