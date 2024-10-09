@@ -270,7 +270,7 @@ categories: Learning update!
 ✅ **The US Dept. of Defence**<br>
 
 ❓ How many GPS satellites are there?<br>
-✅ **40**<br>
+✅ **Over 30**<br>
 
 ❓ How many GPS satellites does a device have to see to get an accurate reading?<br>
 ✅ **4**<br>
