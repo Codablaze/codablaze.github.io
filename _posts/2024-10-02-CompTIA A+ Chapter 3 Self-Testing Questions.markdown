@@ -130,7 +130,7 @@ With regards to these cable types:<br>
 
 <br>
 
-<u>568A and 568B colours:<u>
+<u>T568A and T568B colours:<u>
 
 ❓What is the international cabling standard for T568A and T568A?<br>
 ✅ **International ISO/IEC 11801 cabling standard. A set of two different colour schemes that delineate how a copper ethernet cable should be wired up and crimped.**
@@ -410,205 +410,208 @@ With regards to these cable types:<br>
 <u>SCSI cables<u>
 
 ❓What does SCSI stand for?<br>
-✅ 
+✅ **Small Computer Systems Interface**
 
 ❓How many devices can you have in a SCSI daisy chain?<br>
-✅ 
+✅ **16**
 
 ❓What sort of legacy devices was SCSI used to connect to?<br>
-✅ 
+✅ **Scanners, printers, storage, tape drives etc**
 
 ❓Why was SCSI very easy to use?<br>
-✅ 
+✅ **It configured itself when devices were connected**
 
 ❓Where might you find SCSI still in use?<br>
-✅ 
+✅ **In virtual networks**
 
 ❓What two widths did SCSI cables have?<br>
-✅ 
+✅ **8 or 16 wire**
 
 ❓Describe SCSI ID and LUN:<br>
-✅ 
+✅ **Small, single or double digit ID numbers, often manually set, and Logical Unit, meaning a different device within a larger framework, such as a single drive within an array**
 
 ❓What does LUN stand for?<br>
-✅ 
+✅ **Logical Unit**
 
 ❓What might you place at the end of a SCSI cable?<br>
-✅ 
+✅ **A terminator**
 
 ❓With SCSI, what is SAS, and why is it helpful?<br>
-✅ 
+✅ **Serial Attached SCSI - no terminators or extra settings needed**
 
 ❓How are SCSI IDs often set?<br>
-✅ 
+✅ **Manually, with a clickable ID wheel**
 
 ❓What were the benefits of migrating SCSI to SAS?<br>
-✅ 
+✅ **Simple two way communication between devices**
 
 <u>PATA cables<u>
 
 ❓What did PATA stand for?<br>
-✅ 
+✅ **Parallel Advanced Technology Attachment**
 
 ❓What did IDE stand for?<br>
-✅ 
+✅ **Integrated Drive Electronics**
 
 ❓What did EIDE stand for?<br>
-✅ 
+✅ **Enhanced Integrated Drive Electronics**
 
 ❓What speeds did PATA start at, and evolve to eventually?<br>
-✅ 
+✅ **16MB/s to 133MB/s**
 
 ❓How many wires did the two different types of PATA each have?<br>
-✅ 
+✅ **40 and 80**
 
 ❓In the 40 wire cable, in what order were slot 0 and slot 1?<br>
-✅ 
+✅ **0 then 1**
 
 ❓In the 80 wire cable, in what order were slot 0 and slot 1?<br>
-✅ 
+✅ **1 then 0**
 
 ❓Why do PATA connectors have a notch and a missing pin?<br>
-✅ 
+✅ **To stop you plugging them in wrong**
 
 ❓What power connector type does PATA use?<br>
-✅ 
+✅ **Molex - 4 pin**
 
 <br>
 
 <u>Converters<u>
 
 ❓Why does DVI-A convert to VGA alright?<br>
-✅ 
+✅ **They are both analog signals**
 
 ❓List some connections you might find on a modern USB hub.<br>
-✅ 
+✅ **Thunderbold, USB-C, Ethernet**
 
 <br>
 
 <u>Copper connectors:<u>
 
 ❓What is an RJ11 connector?<br>
-✅ 
+✅ **An old school phone connector**
 
 ❓What is meant by 6P2C?<br>
-✅ 
+✅ **6 position 2 conductors**
 
 ❓What is meant by 6P4C?<br>
-✅ 
+✅ **6 position 4 conductors**
 
 ❓What is an RJ45 connector?<br>
-✅ 
+✅ **An ethernet connector**
 
 ❓What does 8P8C mean?<br>
-✅ 
+✅ **8 position 8 conductor**
 
 ❓What is an F-Connector?<br>
-✅ 
+✅ **A coaxial connector used for cable fibre**
 
 ❓What is a punchdown block?<br>
-✅ 
+✅ **A dedicated block within a cabinet that you can connect Ethernet wires to directly**
 
 ❓In what way is a USB 3.0 micro-b plug really weird?<br>
-✅ 
+✅ **It has a second side notch with an extra set of pins** 
 
 ❓What is a Molex connector?<br>
-✅ 
+✅ **A legacy connector used to carry power. It has 4 pins and is named after the company, Molex**
 
 ❓What two voltages does Molex supply?<br>
-✅ 
+✅ **+5v and +12v**
 
 ❓What is the longer, technical name for a DB-9 connector?<br>
-✅ 
+✅ **A D-Subminiature connector**
 
 ❓Where could you still find a DB-9 connector in a more modern setting?<br>
-✅ 
+✅ **On an older switch**
 
 <br>
 
 <u>Fibre connectors<u>
 
 ❓What is an LC connector?<br>
-✅ 
+✅ **A lucent connector, either two connectors combined, or each can be split separately**
 
 ❓What are the two connections on an LC connector called?<br>
-✅ 
+✅ **Transmit+ and Receive+**
 
 ❓What is an ST connector?<br>
-✅ 
+✅ **A straight tip connector**
 
 ❓What is an SC connector?<br>
-✅ 
+✅ **Subscriber connector - sometimes called a square connector**
 
 <br>
 
 <u>3.2 - Install appropriate RAM<u>
 
 ❓What does RAM stand for?<br>
-✅ 
+✅ **Random Access Memory**
 
 ❓What is RAM?<br>
-✅ 
+✅ **The working memory of a system that programs are loaded into**
 
 ❓What is a DIMM?<br>
-✅ 
+✅ **Dual inline memory module - the actual stick of RAM**
 
 ❓What is the data width of a DIMM?<br>
-✅ 
+✅ **64bit**
 
 ❓What is a SO-DIMM?<br>
-✅ 
+✅ **Small Outline Dual inline memory module**
 
 ❓What does DRAM stand for?<br>
-✅ 
+✅ **Dynamic Random Access Memory**
 
 ❓What is meant by dynamic?<br>
-✅ 
+✅ **The RAM is constantly refreshing**
 
 ❓In what way is RAM random?<br>
-✅ 
+✅ **Data can be accessed from anywhere on the chips at any time**
 
 ❓What is SDRAM?<br>
-✅ 
+✅ **Synchronous Dynamic Random Access Memory**
 
 ❓What is SDRAM synchronised to?<br>
-✅ 
+✅ **The system clock**
 
 ❓What does DDR stand for?<br>
-✅ 
+✅ **Double Data Rate**
 
 ❓What did SDR stand for?<br>
-✅ 
+✅ **Standard Data Rate**
 
 ❓What was the chip capacity of DDR3 SDRAM?<br>
-✅ 
+✅ **16GB**
 
 ❓What was the chip capacity of DDR4 SDRAM?<br>
-✅ 
+✅ **64GB**
 
 ❓What is the chip capacity of DDR5 SDRAM?<br>
-✅ 
+✅ **64GB**
 
 ❓What is VRAM?<br>
-✅ 
+✅ **Virtual Random Access Memory - using the hard drive as RAM**
 
 ❓What is a swap file?<br>
-✅ 
+✅ **Another name for VRAM**
 
 ❓Why is VRAM not a great process?<br>
-✅ 
+✅ **It can be slow and inefficient**
 
 ❓What is multi-channel memory?<br>
-✅ 
+✅ **Memory in multiple slots that can share a workload to make it faster**
 
 ❓Where might you find self-checking memory?<br>
-✅ 
+✅ **Critical systems like servers**
 
 ❓What is parity memory?<br>
-✅ 
+✅ **Adds a parity bit when data is stored, to try to see if data is corrupted. Not 100% efficient**
+
+❓What is ECC memory?<br>
+✅ **Error Correcting Code memory - Able to detect errors and fix them**
 
 ❓How does ‘even parity’ work?<br>
-✅ 
+✅ **Checks to see if a byte is even when bit added to an odd numbered byte**
 
 <br>
 
@@ -617,134 +620,134 @@ With regards to these cable types:<br>
 <u>Storage devices<u>
 
 ❓What is a HDD?<br>
-✅ 
+✅ **A spinning platter based hard disk**
 
 ❓What is meant by non-volatile magnetic storage?<br>
-✅ 
+✅ **Solid State Drive are this technology**
 
 ❓Explain Spindle, Arm, Actuator, Head and Platter in a HDD.<br>
-✅ 
+✅ **The different components that interact to make the read and write functionality work**
 
 ❓What is the average rotational latency of a drive spinning at 15,000 rpm?<br>
-✅ 
+✅ **2ms**
  
 ❓What is the average rotational latency of a drive spinning at 10,000 rpm?<br>
-✅ 
+✅ **3ms**
 
 ❓What is the average rotational latency of a drive spinning at 7.200 rpm?<br>
-✅ 
+✅ **4.16ms**
 
 ❓What is the average rotational latency of a drive spinning at 5,400 rpm?<br>
-✅ 
+✅ **5.55ms**
 
 ❓What is an SSD?<br>
-✅ 
+✅ **A solid state hard drive**
 
 ❓What is non-volatile memory?<br>
-✅ 
+✅ **Memory that stays once a system is powered down**
 
 ❓What interface is used to connect to a HDD or SSD?<br>
-✅ 
+✅ **SATA**
 
 ❓What is mSATA?<br>
-✅ 
+✅ **mini SATA, and it isn't very common**
 
 ❓What is m.2?<br>
-✅ 
+✅ **The upgrade from mini SATA, and it can support NVMe**
 
 ❓What is AHCI?<br>
-✅ 
+✅ **Advanced Host Controller Interface, used for SATA**
 
 ❓What is NVMe?<br>
-✅ 
+✅ **Non volatile memory express**
 
 ❓What is the speed of the m.2 NVMe interface?<br>
-✅ 
+✅ **4GB/s when using PCIe x4**
 
 ❓What are the different ‘keys’ of an m.2 interface?<br>
-✅ 
+✅ **m-key and b-key**
 
 ❓Does using an m.2 interface and drive guarantee that you are using NVMe?<br>
-✅ 
+✅ **Nope**
 
 ❓What does EEPROM stand for?<br>
-✅ 
+✅ **Electronically Erasable Programmable Read Only Memory**
 
 ❓Name some different types of flash drive:<br>
-✅ 
+✅ **SD card, Mini SD, Micro SD, USB flash**
 
 ❓What is a good use for optical drives in modern times?<br>
-✅ 
+✅ **Archiving**
 
 <br>
 
 <u>RAID storage<u>
 
 ❓What does RAID stand for?<br>
-✅ 
+✅ **Redundant Array of Independent Drives**
 
 ❓Is RAID a backup?<br>
-✅ 
+✅ **No, more of an efficiency tool**
 
 ❓What is RAID 0 also called?<br>
-✅ 
+✅ **Striping**
 
 ❓Give an overview of how RAID 0 works?<br>
-✅ 
+✅ **Splits data betwee two or more drives, making read and write times faster. If a drive goes down, all data is lost. Make frequent backups.**
 
 ❓What is an advantage of RAID 0?<br>
-✅ 
+✅ **It's fast and very easy to configure**
 
 ❓What is the major drawback of RAID 0?<br>
-✅ 
+✅ **Data loss risk**
 
 ❓What is RAID 1 also called?<br>
-✅ 
+✅ **Mirroring**
 
 ❓Give an overview of how RAID 1 works?<br>
-✅ 
+✅ **Doubles up the data on each drive, so if a drive goes down, all data is saved**
 
 ❓What is a benefit of RAID 1?<br>
-✅ 
+✅ **Redundancy**
 
 ❓What is the main drawback of RAID 1?<br>
-✅ 
+✅ **It is slow, and effectively halves your storage capacity**
 
 ❓What is RAID 5 also referred to as?<br>
-✅ 
+✅ **Striping with Parity**
 
 ❓What are the minimum amount of disks required to run a RAID 5 system?<br>
-✅ 
+✅ **3**
 
 ❓If your data was stored on two drives with RAID 5, what is the extra disk used for?<br>
-✅ 
+✅ **Storing the parity information**
 
 ❓What is the name given to the ‘extra disk’ in RAID 5?<br>
-✅ 
+✅ **Security drive**
 
 ❓Give an overview of how RAID 5 works.<br>
-✅ 
+✅ **Data is spread across two or more drives, and a parity bit for every byte is stored in the extra drive. This parity bit can then be used to rebuild the data if a drive fails**
 
 ❓What are the main advantages of RAID 5?<br>
-✅ 
+✅ **Redundancy AND speed**
 
 ❓What is the main drawback of RAID 5?<br>
-✅ 
+✅ **Takes a long time to rebuild data if a drive is lost. There is then a risk if another drive fails in that time**
 
 ❓What is RAID 10 also referred to as?<br>
-✅ 
+✅ **Striping and Mirroring**
 
 ❓Give an overview of how RAID 10 works?<br>
-✅ 
+✅ **Duplicates each drive into cells, and doubles up the data on each cell**
 
 ❓What is the main advantage of RAID 10?<br>
-✅ 
+✅ **Redundancy AND speed**
 
 ❓What is the main drawback of RAID 10?<br>
-✅ 
+✅ **Halves storage space, and can take a while to rebuild data**
 
 ❓What is the minimum amount of drives used to run a RAID 10 system?<br>
-✅ 
+✅ **4**
 
 <br>
 
