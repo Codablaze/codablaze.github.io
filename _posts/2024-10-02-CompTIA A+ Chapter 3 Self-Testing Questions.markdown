@@ -132,35 +132,35 @@ With regards to these cable types:<br>
 
 <u>568A and 568B colours:<u>
 
-❓What is the international cabling standard for 568A and 568A?<br>
-✅ 
+❓What is the international cabling standard for T568A and T568A?<br>
+✅ **International ISO/IEC 11801 cabling standard. A set of two different colour schemes that delineate how a copper ethernet cable should be wired up and crimped.**
 
 ❓What is the TIA?<br>
-✅ 
+✅ **The telecommunications industry association**
 
 ❓What does ANSI stand for?<br>
-✅ 
+✅ **American National Standards Institute**
 
 ❓What type of buildings does the ANSI/TIA-568 standard cover?<br>
-✅ 
+✅ **Commercial buildings**
 
 ❓What is the resistance rating of a single conductor in a twisted pair cable?<br>
-✅ 
+✅ **100 Ohms**
 
 ❓What is meant by ‘conductor’ in this context?<br>
-✅ 
+✅ **A single wire within the ethernet cable**
 
 ❓How many ‘conductors’ are there in total?<br>
-✅ 
+✅ **8**
 
 ❓What does 8P8C stand for, and what is it referring to? <br>
-✅ 
+✅ **8 position, 8 conductor**
 
 ❓Can you cross over 568A and 568B standards on alternate ends of a cable?<br>
-✅ 
+✅ **Noooooo**
 
 ❓What is an ethernet crossover cable?<br>
-✅ 
+✅ **A cable that allows two devices two talk to eachother directly, without the use of a hub or switch**
 
 ❓What is the colour order for 568A wiring?<br>
 ✅ 
@@ -188,225 +188,222 @@ With regards to these cable types:<br>
 ✅ **Orange and green swap over**
 
 ❓How can you quickly verify which standard is being used?<br>
-✅ 
+✅ **Take a look at the RJ45 connector on the end, because it might be transparent**
 
 ❓What is a punch down block?<br>
-✅ 
+✅ **A block with a special layout inside that will directly receive wires and crimp them in, so no RJ45 connector is needed**
 <br>
 
 <u>Peripheral cables:<u>
 
 ❓What does USB stand for?<br>
-✅ 
+✅ **Universal Serial Bus**
 
 ❓What was the speed of low speed USB 1.1?<br>
-✅ 
+✅ **1.5Mbits/s**
 
 ❓What was the range of low speed USB 1.1?<br>
-✅ 
+✅ **3m**
 
 ❓What was the speed of Full speed USB 1.1?<br>
-✅ 
+✅ **12Mbit/s**
 
 ❓What was the range of Full speed USB 1.1?<br>
-✅ 
+✅ **5m**
 
 ❓What was the speed of USB 2.0?<br>
-✅ 
+✅ **480Mbit/s**
 
 ❓What was the range of USB 2.0?<br>
-✅ 
+✅ **5m**
 
 ❓What is the speed of USB 3.0?<br>
-✅ 
+✅ **480Mbit/s**
 
 ❓What is the range of USB 3.0?<br>
-✅ 
+✅ **Standard not specified, but it is generally considered to be 3m**
 
 ❓Name 5 USB connectors.<br>
-✅ 
+✅ **USB-A, USB-B, USB-C, Mini-USB, Micro-USB** 
 
 ❓Why is USB-C so cool?<br>
-✅ 
+✅ **It can go in both ways and carry lots of different signal types, including Thunderbolt, HDMI and Ethernet**
 
 ❓What is USB 3.1 and how did it change the naming conventions?<br>
-✅ 
+✅ **USB 3.1 was a rebrand of USB 3.0, with it relegating USB 3.0 to the bottom of its new scale, as USB 3.1 Gen 1 at 5Gbit/s. The new standard, USB 3.1 Gen 2, doubled the throughput to 10Gbit/s**
 
 ❓When did USB 3.1 come out?<br>
-✅ 
+✅ **2013**
 
 ❓When did USB 3.2 come out?<br>
-✅ 
+✅ **2017**
 
 ❓What did USB 3.2 do to the naming conventions of USB 3.1?<br>
-✅ 
+✅ **Relegated them again. 3.1 gen 1 became 3.2 gen 1 at 5Gbit/s. 3.1 gen2 became USB 3.2 gen 2 at 10Gbit/s, and now there is 3.2 Gen 1x2, which achieves 10Gbit/s by using 2 Gen 3.2 gen 1 lanes, and USB 3.2 Gen 2x2 which achieves 20Gbit/s using 2 3.2 Gen 2 lanes.**
 
 ❓What is the speed of USB 3.2 gen 1?<br>
-✅ 
+✅ **5Gbit/s**
 
 ❓What is the speed of USB 3.2 gen 2?<br>
-✅ 
+✅ **10Gbit/s**
 
 ❓What is the speed of USB gen 1x1?<br>
-✅ 
+✅ **10Gbit/s**
 
 ❓What is the speed of USB gen 2x2?<br>
-✅ 
+✅ **20Gbit/s**
 
 ❓What was the original thunderbolt connector based around?<br>
-✅ 
+✅ **Mini display port**
 
 ❓How many channels did Thunderbolt v1 have?<br>
-✅ 
+✅ **2 channels**
 
 ❓What was the speed per channel of thunderbolt v1?<br>
-✅ 
+✅ **10Gbit/s**
 
 ❓What was the speed of Thunderbolt v2, and how did it differ from v1?<br>
-✅ 
+✅ **20Gbit/s, and it achieved this by aggregating the channels**
 
 ❓What is the aggregated throughput of Thunderbolt v3?<br>
-✅ 
+✅ **40Gbit/s**
 
 ❓What type of connector did Thunderbolt v3 change to?<br>
-✅ 
+✅ **USB-C**
 
 ❓What is the maximum range of copper based Thunderbolt?<br>
-✅ 
+✅ **3m**
 
 ❓What is the maximum range of optical Thunderbolt?<br>
-✅ 
+✅ **60m**
 
 ❓How many devices can be daisy chained through Thunderbolt?<br>
-✅ 
+✅ **6**
 
 ❓What was the signal standard that predated USB?<br>
-✅ 
+✅ **RS-232**
 
 ❓When did that standard get introduced?<br>
-✅ 
+✅ **1967**
 
 ❓Name 2 connectors that used this standard:<br>
-✅ 
+✅ **DB-9 and DB-25**
 
 <br>
 
 <u>Video cables:<u>
 
 ❓What is a DB-15 connector usually referred to as?<br>
-✅ 
+✅ **A serial connector**
 
 ❓What colour is a DB-15 connector?<br>
-✅ 
+✅ **Pink**
 
 ❓What is a drawback of this connector type?<br>
-✅ 
+✅ **It is old and slow**
 
 ❓What is the functional working length of a VGA cable before the signal starts to significantly degrade?<br>
-✅ 
+✅ **5-10m**
 
 ❓How many pins does a VGA connector use?<br>
-✅ 
+✅ **15**
 
 ❓What does HDMI stand for?<br>
-✅ 
+✅ **High Definition Multimedia Interface**
 
 ❓What is the maximum functional length of HDMI?<br>
-✅ 
+✅ **20m**
 
 ❓How many pins does a HDMI cable have?<br>
-✅ **19 
+✅ **19** 
 
 ❓What is Display Port?<br>
-✅ 
+✅ **A high definition signal cable**
 
 ❓Why is the Display Port connector so damn good?<br>
-✅ 
+✅ **It has a lock and click mechanism**
 
 ❓Display Port is passively compatible with HDMI. What does this mean?<br>
-✅ 
+✅ **You don't need an adapter between the two that does any kind of processing**
 
 ❓What does DVI stand for?<br>
-✅ 
+✅ **Digital Visual Interface**
 
 ❓How many types of DVI connector are there?<br>
-✅ 
+✅ **5**
 
 ❓What does DVI-A stand for?<br>
-✅ 
+✅ **Digital Visual Interface Analogue**
 
 ❓What is the data throughput of single link DVI?<br>
-✅ 
+✅ **3.7Gbit/s**
+
+❓What is the max framerate of single link DVI?<br>
+✅ **60fps**
+
+❓What is the data throughput of dual link DVI?<br>
+✅ **7.4Gbit/s**
 
 ❓What is the max framerate of dual link DVI?<br>
-✅ 
+✅ **85fps**
 
 ❓What does DVI-D stand for?<br>
-✅ 
-
-❓What link types can DVI-D support?<br>
-✅ 
-
-❓What is the max data rate of DVI-D?<br>
-✅ 
-
-❓What is the max frame rate of DVI-D?<br>
-✅ 
+✅ **Digital Visual Interface Digital**
 
 ❓Does DVI support audio?<br>
-✅ 
+✅ **Not technically, however, a video card with HDMI usually will encode audio for DVI as well**
 
 ❓What does DVI-I stand for?<br>
-✅ 
+✅ **digital Visual Interface Integrated**
 
 ❓Which DVI types can support both single and dual link?<br>
-✅ 
+✅ **DVI-A and DVI-D**
 
 ❓Why do most DVI ports allow conversion to HDMI?<br>
-✅ 
+✅ **Because graphics cards tend to handle the encoding to HDMI in the same output interface anyway**
 
 <br>
 
 <u>SATA device cables:<u>
 
 ❓What did PATA stand for?<br>
-✅ 
+✅ **Parallel Advanced Technology Attachment**
 
 ❓What does SATA stand for?<br>
-✅ 
+✅ **Serial Advanced Technology Attachment**
 
 ❓How many versions of SATA have there been?<br>
-✅ 
+✅ **4**
 
 ❓What was the maximum speed of SATA revision 1?<br>
-✅ 
+✅ **1.5Gbit/s**
 
 ❓What was the maximum speed of SATA revision 2?<br>
-✅ 
+✅ **3.0Gbit/s**
 
 ❓What was the maximum speed of SATA revision 3?<br>
-✅ 
+✅ **6.0Gbit/s**
 
 ❓What is the maximum speed of SATA revision 3.2?<br>
-✅ 
+✅ **16Gbit/s**
 
 ❓What is meant by eSATA, and what is its range?<br>
-✅ 
+✅ **External Sata, 2m range**
 
 ❓What are the two connector types on a SATA drive?<br>
-✅ 
+✅ **Power and data**
 
 ❓How many pins does the SATA power connection have?<br>
-✅ 
+✅ **15**
 
 ❓How many pins does the SATA data connection have?<br>
-✅ 
+✅ **7**
 
 ❓Describe some defining features of the SATA connections on a motherboard?<br>
-✅ 
+✅ **Sometime has vibrant colours, and has an L shaped hook inside it**
 
 ❓In what way is an eSATA connector different from an internal SATA connector?<br>
-✅ 
+✅ **It is a different shape, and lacks the L shaped hook of the ordinary SATA connection**
 
 <br>
 
