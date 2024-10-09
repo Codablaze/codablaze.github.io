@@ -972,31 +972,44 @@ With regards to these cable types:<br>
 ❓What are the little notches in expansion cards referred to as?<br>
 ✅ **Keys**
 
-❓What is a sound card used for?
+❓What is a sound card used for?<br>
+✅ **Processing and outputting (usually high quality) audio, with industry standard attachments such as unbalanced jack**
 
-❓When might you need a video card?
+❓When might you need a video card?<br>
+✅ **When your onboard CPU isn't powerful enough, or isn't designed to hand large amounts of video data**
 
-❓What is meant by ‘discrete’ graphics?
+❓What is meant by ‘discrete’ graphics?<br>
+✅ **It's another term for a separate graphics card**
 
-❓What are integrated graphics?
+❓What are integrated graphics?<br>
+✅ **A graphical system built into the CPU of the system**
 
-❓Give some examples of outputs that could be found on a graphics card/video card?
+❓Give some examples of outputs that could be found on a graphics card/video card?<br>
+✅ **HDMI, Display port, and on older systems you might find DVI or VGA as well**
 
-❓Explain what a capture card is.
+❓Explain what a capture card is.<br>
+✅ **A card dedicated to ingesting, processing and encoding footage from either a camera or screen capture, making it suitable for use by the CPU, taking up much of the heavy lifting**
 
-❓What connection on the motherboard would a capture card usually use?
+❓What connection on the motherboard would a capture card usually use?<br>
+✅ **PCIe**
 
-❓What does SDI stand for?
+❓What does SDI stand for?<br>
+✅ **Serial Digital Interface**
 
-❓What is a NIC?
+❓What is a NIC?<br>
+✅ **Network Interface Card**
 
-❓Why might you need a NIC?
+❓Why might you need a NIC?<br>
+✅ **If your system doesn't have network capability built in, or if you want a faster connection than is offered by your existing one**
 
-❓What are a few recommended steps to go through before buying and attempting to install an expansion card?
+❓What are a few recommended steps to go through before buying and attempting to install an expansion card?<br>
+✅ **Check over the manufacturer's documentation for both the motherboard and card, making sure they will both be compatible. You may even want to contact the companies to verify this**
 
-❓What is a ‘device driver’?
+❓What is a ‘device driver’?<br>
+✅ **A piece of firmware that enables hardware to communicate with, and be controlled by, an OS**
 
-❓Where can you find the latest version of a device driver?
+❓Where can you find the latest version of a device driver?<br>
+✅ **The manufacturer's website**
 
 <br>
 
