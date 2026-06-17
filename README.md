@@ -1,2 +1,2 @@
-# codablaze.github.io
+# Codablaze.com
 The Official Website for all things Codablaze
