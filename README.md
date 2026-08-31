@@ -1,6 +1,6 @@
 <body style="background-color:black;"> ​ 
 <p style="color: white;">Welcome! </p>
-<p style="color: white;">This simple website lists all the various places that my work can found.</p>
+<p style="color: white;">This simple website lists all the various places that my work can be found!</p>
 <p></p>
 <b><font color="white">Writing:</font></b><br>
 <font color="white">Medium:</font> <a href="https://medium.com/@codablaze">Codablaze<a> <br>
