@@ -5,7 +5,7 @@
 <b><font color="white">Writing:</font></b><br>
 <font color="white">Medium:</font> <a href="https://medium.com/@codablaze">Codablaze<a> <br>
 <font color="white">Royal Road:</font> <a href="https://www.royalroad.com/profile/1036401">Codablaze<a> <br>
-<font color="white">Spacebattles:</font> <a href="ttps://forums.spacebattles.com/search/167583419/?c[users]=Codablaze&o=date">Codablaze<a> <br>
+<font color="white">Spacebattles:</font> <a href="https://forums.spacebattles.com/search/167583419/?c[users]=Codablaze&o=date">Codablaze<a><br>
 <font color="white">Archive of Our Own:</font> <a href="https://archiveofourown.org/users/Codablaze">Codablaze<a> <br>
 
 <p></p>
