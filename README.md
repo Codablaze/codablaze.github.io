@@ -9,5 +9,8 @@
 <p></p>
 <b><font color="white">Social media:</font></b> <br>
 <font color="white">Bluesky:</font> <a href="https://bsky.app/profile/codablaze.bsky.social">Codablaze<a>
+<p></p>
+<b><font color="white">Professional enquiries:</font></b> <br>
+<font color="white">Email:</font> <a href="https://bsky.app/profile/codablaze.bsky.social">Codablaze@mail.com<a>
 
 
